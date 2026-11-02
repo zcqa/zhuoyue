@@ -1,0 +1,52 @@
+[
+  {
+    "path": "models\\faster-whisper-small\\config.json",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/config.json",
+    "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  {
+    "path": "models\\faster-whisper-small\\tokenizer.json",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/tokenizer.json",
+    "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  {
+    "path": "models\\faster-whisper-small\\vocabulary.txt",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/vocabulary.txt",
+    "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  {
+    "path": "models\\faster-whisper-small\\model.bin",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin",
+    "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  {
+    "path": "models\\faster-whisper-small\\README.md",
+    "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/README.md",
+    "sha256": "329373481008c7c38654aff8ecdcf0163c211557cc7ba8e2ef6f2f84b4f75ec8",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  {
+    "path": "models/downloads/segmentation.tar.bz2",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-segmentation-models/sherpa-onnx-pyannote-segmentation-3-0.tar.bz2",
+    "sha256": "24615ee884c897d9d2ba09bb4d30da6bb1b15e685065962db5b02e76e4996488"
+  },
+  {
+    "path": "models/speaker-embedding.onnx",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-recongition-models/3dspeaker_speech_eres2net_base_sv_zh-cn_3dspeaker_16k.onnx",
+    "sha256": "1a331345f04805badbb495c775a6ddffcdd1a732567d5ec8b3d5749e3c7a5e4b"
+  },
+  {
+    "path": "data/raw/four-speakers-zh.wav",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-segmentation-models/0-four-speakers-zh.wav",
+    "sha256": "bedf036caed208386c67b4ef4b11f83d74dd0d420b102163a1c33cd09cde7010"
+  },
+  {
+    "path": "data/raw/two-speakers-en.wav",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-segmentation-models/1-two-speakers-en.wav",
+    "sha256": "f1c877dc01595e28be7147bf2fe38e5268147a868bf3fdb5c37b97f5940e21f3"
+  }
+]

@@ -1,0 +1,1523 @@
+{
+  "case": "D",
+  "reference_type": "original_corpus_transcripts",
+  "text": {
+    "cer": null,
+    "reason": "No unique serial reference for overlapping audio, or no text reference supplied by corpus mirror"
+  },
+  "speakers": {
+    "mapping": {
+      "SPEAKER_00": "S0764",
+      "SPEAKER_01": "S0766",
+      "SPEAKER_02": "S0765"
+    },
+    "counts": {
+      "correct": 227,
+      "unknown_speaker": 23,
+      "speaker_confusion": 70,
+      "reference_overlap_unresolved": 51
+    },
+    "nonoverlap_word_count": 320,
+    "speaker_error_fraction": 0.29063,
+    "scope": "construction-reference word-midpoint diagnostic; NOT DER, NOT human verified speaker accuracy",
+    "errors": [
+      {
+        "type": "unknown_speaker",
+        "start": 3.78,
+        "end": 4.54,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 5.42,
+        "end": 5.68,
+        "text": "线",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 5.68,
+        "end": 5.88,
+        "text": "城",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 5.88,
+        "end": 6.14,
+        "text": "市",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 6.14,
+        "end": 6.36,
+        "text": "出",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 6.36,
+        "end": 6.6,
+        "text": "现",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 6.6,
+        "end": 6.84,
+        "text": "日",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 6.84,
+        "end": 7.0,
+        "text": "光",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 7.0,
+        "end": 7.36,
+        "text": "盘",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 7.36,
+        "end": 8.02,
+        "text": "实",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 9.89,
+        "end": 10.11,
+        "text": "整",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 10.11,
+        "end": 10.29,
+        "text": "合",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 10.29,
+        "end": 10.49,
+        "text": "营",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 10.49,
+        "end": 10.79,
+        "text": "销",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 10.79,
+        "end": 10.97,
+        "text": "一",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 10.97,
+        "end": 11.01,
+        "text": "线",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 11.01,
+        "end": 11.29,
+        "text": "城",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 13.43,
+        "end": 14.09,
+        "text": "楼",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 14.94,
+        "end": 15.2,
+        "text": "市",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.2,
+        "end": 15.4,
+        "text": "地",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.4,
+        "end": 15.7,
+        "text": "市",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.7,
+        "end": 15.98,
+        "text": "交",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.98,
+        "end": 16.24,
+        "text": "乡",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 16.24,
+        "end": 16.46,
+        "text": "升",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 16.46,
+        "end": 16.76,
+        "text": "温",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 16.76,
+        "end": 17.18,
+        "text": "房",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 17.18,
+        "end": 17.36,
+        "text": "价",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 17.36,
+        "end": 17.58,
+        "text": "会",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 17.58,
+        "end": 17.8,
+        "text": "不会",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 17.8,
+        "end": 18.18,
+        "text": "再",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 18.18,
+        "end": 18.38,
+        "text": "度",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 18.38,
+        "end": 18.62,
+        "text": "暴",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 18.62,
+        "end": 18.86,
+        "text": "涨",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 18.86,
+        "end": 19.6,
+        "text": "是",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 22.4,
+        "end": 22.86,
+        "text": "那",
+        "predicted": null,
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.75,
+        "end": 25.97,
+        "text": "公",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.97,
+        "end": 26.19,
+        "text": "共",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.19,
+        "end": 26.43,
+        "text": "事",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.43,
+        "end": 26.45,
+        "text": "业",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.45,
+        "end": 26.45,
+        "text": "经",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.45,
+        "end": 26.67,
+        "text": "济",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.67,
+        "end": 26.87,
+        "text": "热",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 26.87,
+        "end": 27.05,
+        "text": "点",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 27.05,
+        "end": 27.31,
+        "text": "导",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 27.31,
+        "end": 27.47,
+        "text": "渡",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 27.47,
+        "end": 27.69,
+        "text": "专",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 27.69,
+        "end": 27.95,
+        "text": "家",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 27.95,
+        "end": 28.23,
+        "text": "认",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 28.23,
+        "end": 28.85,
+        "text": "为",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 43.4,
+        "end": 43.64,
+        "text": "区",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 43.64,
+        "end": 43.98,
+        "text": "亏",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 43.98,
+        "end": 44.22,
+        "text": "生",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 44.22,
+        "end": 44.48,
+        "text": "了",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 44.48,
+        "end": 44.78,
+        "text": "广",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 47.22,
+        "end": 47.92,
+        "text": "标",
+        "predicted": null,
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 51.94,
+        "end": 52.6,
+        "text": "为",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 53.39,
+        "end": 53.59,
+        "text": "了",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 53.59,
+        "end": 53.77,
+        "text": "将",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 53.77,
+        "end": 54.03,
+        "text": "后",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 54.03,
+        "end": 54.21,
+        "text": "备",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 54.21,
+        "end": 54.43,
+        "text": "的",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 54.43,
+        "end": 54.67,
+        "text": "婚",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 54.67,
+        "end": 54.91,
+        "text": "姻",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 54.91,
+        "end": 55.15,
+        "text": "分",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 55.15,
+        "end": 55.39,
+        "text": "显",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 55.39,
+        "end": 55.67,
+        "text": "隔",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 55.67,
+        "end": 55.95,
+        "text": "断",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 55.95,
+        "end": 56.61,
+        "text": "唯",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 60.74,
+        "end": 60.88,
+        "text": "的",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 60.88,
+        "end": 61.1,
+        "text": "广",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 61.1,
+        "end": 61.26,
+        "text": "告",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 61.26,
+        "end": 61.58,
+        "text": "期",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 61.58,
+        "end": 61.74,
+        "text": "因",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 61.74,
+        "end": 61.78,
+        "text": "此",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 61.78,
+        "end": 62.1,
+        "text": "土",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 62.1,
+        "end": 62.34,
+        "text": "地",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 63.72,
+        "end": 64.38,
+        "text": "將",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 65.2,
+        "end": 65.46,
+        "text": "受",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 65.46,
+        "end": 65.68,
+        "text": "益",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 65.68,
+        "end": 65.92,
+        "text": "人",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 65.92,
+        "end": 66.1,
+        "text": "定",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 66.1,
+        "end": 66.34,
+        "text": "為",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 66.34,
+        "end": 66.6,
+        "text": "直",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 66.6,
+        "end": 66.88,
+        "text": "系",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 66.88,
+        "end": 67.12,
+        "text": "血",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 67.12,
+        "end": 67.34,
+        "text": "清",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 67.34,
+        "end": 67.6,
+        "text": "後",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 67.6,
+        "end": 67.88,
+        "text": "代",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 67.88,
+        "end": 68.22,
+        "text": "非",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.22,
+        "end": 68.56,
+        "text": "配",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.56,
+        "end": 68.72,
+        "text": "偶",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.72,
+        "end": 68.94,
+        "text": "繼",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.94,
+        "end": 69.14,
+        "text": "承",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.14,
+        "end": 69.46,
+        "text": "人",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 73.2,
+        "end": 73.8,
+        "text": "中",
+        "predicted": null,
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 76.83,
+        "end": 77.09,
+        "text": "張",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.09,
+        "end": 77.33,
+        "text": "大",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.33,
+        "end": 77.47,
+        "text": "偉",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.47,
+        "end": 77.67,
+        "text": "國",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.67,
+        "end": 77.69,
+        "text": "與",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.69,
+        "end": 77.81,
+        "text": "苏",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.81,
+        "end": 78.03,
+        "text": "斯",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.03,
+        "end": 78.31,
+        "text": "持",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.31,
+        "end": 78.53,
+        "text": "有",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 78.53,
+        "end": 78.75,
+        "text": "房",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 78.75,
+        "end": 78.99,
+        "text": "產",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 78.99,
+        "end": 79.27,
+        "text": "既",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 79.27,
+        "end": 79.53,
+        "text": "真",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 79.53,
+        "end": 80.11,
+        "text": "成",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 84.14,
+        "end": 84.32,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 88.77,
+        "end": 89.25,
+        "text": "相",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.25,
+        "end": 89.51,
+        "text": "關",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.51,
+        "end": 89.71,
+        "text": "公",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.71,
+        "end": 89.95,
+        "text": "司",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.95,
+        "end": 90.23,
+        "text": "股",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 90.23,
+        "end": 90.49,
+        "text": "票",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 90.49,
+        "end": 90.71,
+        "text": "走",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 90.71,
+        "end": 90.91,
+        "text": "勢",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 90.91,
+        "end": 90.97,
+        "text": "四",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 90.97,
+        "end": 91.07,
+        "text": "成",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 91.07,
+        "end": 91.29,
+        "text": "立",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 91.29,
+        "end": 91.49,
+        "text": "以",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "S0765",
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 91.49,
+        "end": 92.01,
+        "text": "來",
+        "predicted": null,
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 94.86,
+        "end": 95.02,
+        "text": "的",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 95.02,
+        "end": 95.28,
+        "text": "火",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 95.28,
+        "end": 95.8,
+        "text": "爆",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 99.94,
+        "end": 100.36,
+        "text": "五",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 101.63,
+        "end": 101.97,
+        "text": "項",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 101.97,
+        "end": 102.21,
+        "text": "目",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 102.21,
+        "end": 102.53,
+        "text": "幾",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 102.53,
+        "end": 102.77,
+        "text": "千",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 102.77,
+        "end": 102.97,
+        "text": "個",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 102.97,
+        "end": 103.03,
+        "text": "北",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 103.03,
+        "end": 103.07,
+        "text": "京",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 103.07,
+        "end": 103.37,
+        "text": "緊",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0764",
+          "S0766"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 107.63,
+        "end": 108.23,
+        "text": "目前",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 108.23,
+        "end": 108.63,
+        "text": "總",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 108.63,
+        "end": 108.89,
+        "text": "估",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 108.89,
+        "end": 109.13,
+        "text": "值",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 109.13,
+        "end": 109.37,
+        "text": "已",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 109.37,
+        "end": 109.55,
+        "text": "過",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 109.55,
+        "end": 109.83,
+        "text": "億",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 109.83,
+        "end": 110.13,
+        "text": "元",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 110.13,
+        "end": 110.61,
+        "text": "開",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      }
+    ],
+    "missing_turn_candidates": [],
+    "predicted_speakers": 3,
+    "reference_speakers": 3,
+    "predicted_speakers_scope": "distinct labels on recognized words; diarization may have additional tracks without recognized text"
+  },
+  "timestamp_issues": [],
+  "timestamp_order_issues": []
+}

@@ -1,0 +1,549 @@
+{
+  "dataset": "AISHELL-1",
+  "license": "Apache-2.0",
+  "original_source": "https://www.openslr.org/33/",
+  "mirror": "https://huggingface.co/datasets/carlot/AIShell",
+  "reference_type": "corpus_human_transcription_not_new_manual_review",
+  "clips": [
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0121.wav",
+      "speaker_id": "S0764",
+      "reference": "甚至出现交易几乎停滞的情况",
+      "dataset_row": 0,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "46dbc998c9d1d48111267c40741dd3200f2e5bcf4075f8c4c97f4451160dce50",
+      "duration_s": 4.2039375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0122.wav",
+      "speaker_id": "S0764",
+      "reference": "一二线城市虽然也处于调整中",
+      "dataset_row": 1,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "5760c7ace0923a499f605d373011c7aaf658e304a0999a493c63669c756384e1",
+      "duration_s": 4.115
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0123.wav",
+      "speaker_id": "S0764",
+      "reference": "但因为聚集了过多公共资源",
+      "dataset_row": 2,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "2c566703c6b1b075568cac56810846a48bb127c740d7a36de66084816035dd42",
+      "duration_s": 4.0
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0124.wav",
+      "speaker_id": "S0764",
+      "reference": "为了规避三四线城市明显过剩的市场风险",
+      "dataset_row": 3,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "efd1bdd02d9624688156a0c14404e52db130c0dc40da749d247caf9b44fe09e6",
+      "duration_s": 5.237
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0125.wav",
+      "speaker_id": "S0764",
+      "reference": "标杆房企必然调整市场战略",
+      "dataset_row": 4,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "a07893010d11c87c8b2752c3960656f5516a1d66cb80706709482511eab85b16",
+      "duration_s": 4.311
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0126.wav",
+      "speaker_id": "S0764",
+      "reference": "因此土地储备至关重要",
+      "dataset_row": 5,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "d07d21f2a7c72a440e24982b3bf57da9899787425e5ff6505ab08a082fb278b1",
+      "duration_s": 3.5
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0127.wav",
+      "speaker_id": "S0764",
+      "reference": "中原地产首席分析师张大伟说",
+      "dataset_row": 6,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "d71591e70d4e5f35a793ea4d69dbfb5cddda2beb4b8d3e0409283e4b63a8d7ea",
+      "duration_s": 4.453
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0128.wav",
+      "speaker_id": "S0764",
+      "reference": "一线城市土地供应量减少",
+      "dataset_row": 7,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "f5430b710e5b27a3174ee7e5964cc307eeee47443bba6fce32179a88e60b1a92",
+      "duration_s": 3.571
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0129.wav",
+      "speaker_id": "S0764",
+      "reference": "也助推了土地市场的火爆",
+      "dataset_row": 8,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "0d12af0837abd1c0526a92ecdcefb0f309d7bb5a540675b0308b2373932c0243",
+      "duration_s": 3.5949375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0130.wav",
+      "speaker_id": "S0764",
+      "reference": "北京仅新增住宅土地供应十宗",
+      "dataset_row": 9,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "1a21763add9914c77978064719c2af8d35ca1c7f8471c3482d829d9b04a605f4",
+      "duration_s": 5.248
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0131.wav",
+      "speaker_id": "S0764",
+      "reference": "开发边界将作为城市发展的刚性约定",
+      "dataset_row": 10,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "6df514cd243f7d23f23c96f1bb9512f3e30befa77a3a54191bb2d13f45463612",
+      "duration_s": 5.0
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0132.wav",
+      "speaker_id": "S0764",
+      "reference": "不得超越界限盲目扩张",
+      "dataset_row": 11,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "e7d9712ea6809ad347cdea03d8100a7488c6932ac3316ea2b42d21b490150878",
+      "duration_s": 3.658
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0133.wav",
+      "speaker_id": "S0764",
+      "reference": "目前挂牌的只有几宗土地",
+      "dataset_row": 12,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "737999eca038468ea42ba334e3309a4a50447085cd65d0dff9651f51bb3b767c",
+      "duration_s": 3.557
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0134.wav",
+      "speaker_id": "S0764",
+      "reference": "再加上近期一二线楼市升温",
+      "dataset_row": 13,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "335b9197a16cca98525f1f41350f120f7c9e43d4fd53fb051d67f98134116582",
+      "duration_s": 4.187
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0135.wav",
+      "speaker_id": "S0764",
+      "reference": "房企对土地的争抢更加积极",
+      "dataset_row": 14,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "b63fd172981a2a902fa180342075f53beacdf5771c393c04f263c878f1dec219",
+      "duration_s": 3.8970625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0136.wav",
+      "speaker_id": "S0764",
+      "reference": "土地市场体现了房企对一二线市场的看重",
+      "dataset_row": 15,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "f2ff2213d0eaa0ffcf252f6c0cc35ce0651029e37b8bfef0f0e9adab4ba4da41",
+      "duration_s": 5.041
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0137.wav",
+      "speaker_id": "S0764",
+      "reference": "面包价格会跟风上涨吗",
+      "dataset_row": 16,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "cc2da521919a65fb0586cb35dd1adadbba49fcf86f88a7218eaff967d5d452e7",
+      "duration_s": 3.611
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0138.wav",
+      "speaker_id": "S0764",
+      "reference": "成交量环比大幅增加",
+      "dataset_row": 17,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=0&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "11798305dc8eb4ff04f4741e901e42b870cfde5bc9d6f1b8fbfcef8848a6411c",
+      "duration_s": 3.58
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0121.wav",
+      "speaker_id": "S0765",
+      "reference": "一线城市出现日光盘",
+      "dataset_row": 370,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "60cca1290fb34656b085a6fa079a7cbc3c6ee3b78bad157748bc43322803c003",
+      "duration_s": 3.0920625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0122.wav",
+      "speaker_id": "S0765",
+      "reference": "楼市地市交相升温房价会不会再度暴涨",
+      "dataset_row": 371,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "ae0500dd77f4da4b362a4b9222bbd53c0e98be75a1d0df4a14313394167f1c75",
+      "duration_s": 5.2460625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0123.wav",
+      "speaker_id": "S0765",
+      "reference": "经济热点导读专家认为",
+      "dataset_row": 372,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "feace288211e2859581c63b94a80646d105a2abb25397f08dbc77234b57f40cd",
+      "duration_s": 3.302
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0124.wav",
+      "speaker_id": "S0765",
+      "reference": "我国房地产市场过去总体偏紧部分地区过紧",
+      "dataset_row": 373,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "7ba3edb42309664fd929eb638d8f792e34321f1f38b99874a994da057fea1ae3",
+      "duration_s": 5.71
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0125.wav",
+      "speaker_id": "S0765",
+      "reference": "为了将后辈的婚姻分险隔断",
+      "dataset_row": 374,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "0e6f1a6932146c3c117a296c21da1e5e4353e0515716e2e7327222820910c5ad",
+      "duration_s": 3.669
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0126.wav",
+      "speaker_id": "S0765",
+      "reference": "将受益人定为直系血亲后代非配偶继承人",
+      "dataset_row": 375,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "5271c62a0c6d788d546ce9cefd524bdf35ca3aec18fd320be8b5f3af63960c96",
+      "duration_s": 5.3080625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0127.wav",
+      "speaker_id": "S0765",
+      "reference": "按公司持有房产计征",
+      "dataset_row": 376,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "0be0469e5846793628dc931184eb2eea56fdf5388e892e6e0edf240ddd6c3afa",
+      "duration_s": 3.162
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0128.wav",
+      "speaker_id": "S0765",
+      "reference": "相关公司股票走势",
+      "dataset_row": 377,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "537e993f7818c1a0ef8273e8ba19581e8d685c02313af8d155f2080b86ce819d",
+      "duration_s": 2.987
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0129.wav",
+      "speaker_id": "S0765",
+      "reference": "房价起飞前购置了十几套房产",
+      "dataset_row": 378,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "425537a23f2bd9caae1f0c2bbbc756e76a118318fb719bc5a9383cd1f442bee2",
+      "duration_s": 4.142
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0130.wav",
+      "speaker_id": "S0765",
+      "reference": "目前总估值已过亿元",
+      "dataset_row": 379,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "2281d99ed0b8172a623c47462d55d0dbdacbc3318e8e946a6f1af00735e51139",
+      "duration_s": 3.1349375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0131.wav",
+      "speaker_id": "S0765",
+      "reference": "这些房产全由宋芳自己打理",
+      "dataset_row": 380,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "8e4928afe1b36c4f21a988e842ef5cd55749dc0b0e639276a2109e412763656a",
+      "duration_s": 3.7049375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0132.wav",
+      "speaker_id": "S0765",
+      "reference": "每月光租金收入便已远大于自己和子女的总开销",
+      "dataset_row": 381,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "877136062ca3d1dc8b6f611a9176bf7d2052415cdc41b958e58a5bdebb78a3ec",
+      "duration_s": 6.1390625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0133.wav",
+      "speaker_id": "S0765",
+      "reference": "宋芳最近却有点烦恼",
+      "dataset_row": 382,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "ac890c1e7363909bbea5dafaf019276812b060372426f741b3a936eb9b7693c4",
+      "duration_s": 3.065
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0134.wav",
+      "speaker_id": "S0765",
+      "reference": "我想把房产留给儿女",
+      "dataset_row": 383,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "6ddd744788cfa23a1950f872ca765212bcb05ea5c163df65b75d5006d72850a9",
+      "duration_s": 3.083
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0135.wav",
+      "speaker_id": "S0765",
+      "reference": "万一以后儿女的婚姻出了问题",
+      "dataset_row": 384,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "0e50a138f2eb9cdb3727e4a477e50bb439a48c79adac2a8b4b08f66170a4482e",
+      "duration_s": 3.7569375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0136.wav",
+      "speaker_id": "S0765",
+      "reference": "他们的财产和生活不会受到太大影响",
+      "dataset_row": 385,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "1b679ef966101906c62db0d5282f91fbe371a7efcfcd4c3bce42f7a9976b5d26",
+      "duration_s": 4.528
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0137.wav",
+      "speaker_id": "S0765",
+      "reference": "宋芳对北京银行私人银行的财富顾问说",
+      "dataset_row": 386,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "a3a6c9abc78d37001fadb1348e28fd0d1911519691bd39758625ecb036cc85bc",
+      "duration_s": 5.071
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0138.wav",
+      "speaker_id": "S0765",
+      "reference": "该信托出资购入宋芳的房产",
+      "dataset_row": 387,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=370&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "9788e982ed083ad5e8eb007057b0a6d291cc6fe880214c5a03a5f4f5b0e25ff4",
+      "duration_s": 3.994
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0121.wav",
+      "speaker_id": "S0766",
+      "reference": "实现数字化整合营销",
+      "dataset_row": 731,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "3448e857c9e907de282c385d6f71be6f60508fd7b5881092df4c7a181c8e61de",
+      "duration_s": 3.174
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0122.wav",
+      "speaker_id": "S0766",
+      "reference": "是当今广告行业的需要",
+      "dataset_row": 732,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "29ff8f9c016406ae60e604d8dd10ad1a18fe8bd55e25151a7c6010be89b9d4bb",
+      "duration_s": 3.146
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0123.wav",
+      "speaker_id": "S0766",
+      "reference": "消费者行为的变化及技术的进步",
+      "dataset_row": 733,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "3d88b7e45e1c39dd6fda170d1163a4862fb128a8fbfec5f0cac3af74a22ad989",
+      "duration_s": 3.928
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0124.wav",
+      "speaker_id": "S0766",
+      "reference": "催生了广告领域新的变革和创新",
+      "dataset_row": 734,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "2f1ad0d2a82fe8c87c1cbe02b52b82aed57ded9821f559e8cb657b75652d3ff4",
+      "duration_s": 4.519
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0125.wav",
+      "speaker_id": "S0766",
+      "reference": "唯有实力雄厚又颇具现代创新意识的广告企业",
+      "dataset_row": 735,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "fd612fa23a91bd9c5a4b6dbf4238a7257ad69d1357acae8512dd88c76cd50a82",
+      "duration_s": 5.492
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0126.wav",
+      "speaker_id": "S0766",
+      "reference": "今久整合营销集团就是如此",
+      "dataset_row": 736,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "ac5df3a0a19c22ebb0367c10de066334ce855c33dfa6cf7c9374e8302847d6a2",
+      "duration_s": 3.575
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0127.wav",
+      "speaker_id": "S0766",
+      "reference": "成为圈子里首屈一指的超大企业",
+      "dataset_row": 737,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "3b7f0430dea6acbe239c876c2732dd981aade19f2e55bdb3ec6f3c9abf02a772",
+      "duration_s": 4.014
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0128.wav",
+      "speaker_id": "S0766",
+      "reference": "自成立以来",
+      "dataset_row": 738,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "4141868b913c2139201142b147de96151b398139437f27c0b2ce0d31f8c43a13",
+      "duration_s": 2.1360625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0129.wav",
+      "speaker_id": "S0766",
+      "reference": "服务项目几千个",
+      "dataset_row": 739,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "d6ccfda5267637bf1f3a814306752add570a4c0efdcddc2ace6865a2031b617d",
+      "duration_s": 2.5550625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0130.wav",
+      "speaker_id": "S0766",
+      "reference": "开创了蔓延全国的青年社区概念",
+      "dataset_row": 740,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "18d1056c1c088a2bb95ab56ad1af85542823b86859f6d49d570dfacd3ea31058",
+      "duration_s": 4.224
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0131.wav",
+      "speaker_id": "S0766",
+      "reference": "确立了无人撼动的行业老大地位",
+      "dataset_row": 741,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "23f06692e87fa0b80c8d2ae1c52537cd3e4eea49df990e9b4971bf92f3e8f087",
+      "duration_s": 3.9469375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0132.wav",
+      "speaker_id": "S0766",
+      "reference": "成为房地产最信任的营销公司",
+      "dataset_row": 742,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "b750d3f180046f520aec8cd9887f4263e18331e2e6d35a9c40a473e85a4108ac",
+      "duration_s": 3.851
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0133.wav",
+      "speaker_id": "S0766",
+      "reference": "然而这家雄心勃勃的公司并未止步于此",
+      "dataset_row": 743,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "7e5f2117adc25fb83de794a16a29bff8cdb33a01b2ae5e328f7624f239858a50",
+      "duration_s": 4.9859375
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0134.wav",
+      "speaker_id": "S0766",
+      "reference": "一个以互联网和大数据为核心的时代已经到来",
+      "dataset_row": 744,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "1739b64fd593d4e3546e2fdb5435f30bc2ffd781659803df32d717cc7e6466e0",
+      "duration_s": 5.034
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0135.wav",
+      "speaker_id": "S0766",
+      "reference": "今久必须担当起引领时代潮流的重任",
+      "dataset_row": 745,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "f3e4cbe7dfe965a73f55f347b157f05615800cdaaec407f0bea990b915e5891b",
+      "duration_s": 4.6810625
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0136.wav",
+      "speaker_id": "S0766",
+      "reference": "蓝色光标以几亿人民币收购今久",
+      "dataset_row": 746,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "abb4c06e41fdb0809f0611ca1b44e10dedc278bbaeb1bb1907555ccfcade1f4f",
+      "duration_s": 4.281
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0137.wav",
+      "speaker_id": "S0766",
+      "reference": "这成为今久转型的起点",
+      "dataset_row": 747,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "8bc76e3746211962d65b47cfff79c6f18f6750b2cf1bfaf611330798495d11eb",
+      "duration_s": 3.927
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0138.wav",
+      "speaker_id": "S0766",
+      "reference": "依托蓝色光标强大的技术和资源优势",
+      "dataset_row": 748,
+      "source": "https://datasets-server.huggingface.co/rows?dataset=carlot%2FAIShell&config=default&split=test&offset=731&length=18",
+      "revision": "692ef58020d79b21f54eb25b15a4813d4f9650d7",
+      "sha256": "baeab2e9949e1320866a73e5fe5cafa708d6c61e38d0bc96d68f4c9cb1492f16",
+      "duration_s": 4.49
+    }
+  ]
+}

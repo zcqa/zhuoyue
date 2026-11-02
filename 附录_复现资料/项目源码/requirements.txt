@@ -1,0 +1,11 @@
+faster-whisper==1.2.1
+ctranslate2==4.4.0
+sherpa-onnx==2.0.1
+sounddevice>=0.5.1,<0.6
+soundfile>=0.13,<0.15
+scipy>=1.14,<2
+requests>=2.32,<3
+websockets>=14,<18
+python-dotenv>=1,<2
+pytest>=8,<10
+pyarrow>=18,<27

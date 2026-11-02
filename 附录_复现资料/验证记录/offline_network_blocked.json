@@ -1,0 +1,246 @@
+{
+  "network": "Python socket.connect blocked during loading and inference",
+  "passed": true,
+  "asr_elapsed_s": 2.5997,
+  "diarization_elapsed_s": 0.031,
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 3.8,
+      "text": "甚至出现交易几乎停滞的情况",
+      "speaker_id": "SPEAKER_00",
+      "words": [
+        {
+          "start": 0.66,
+          "end": 0.96,
+          "text": "甚",
+          "probability": 0.9599,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 0.567
+        },
+        {
+          "start": 0.96,
+          "end": 1.22,
+          "text": "至",
+          "probability": 0.9998,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 1.22,
+          "end": 1.44,
+          "text": "出",
+          "probability": 0.9935,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 1.44,
+          "end": 1.7,
+          "text": "现",
+          "probability": 0.7195,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 1.7,
+          "end": 2.0,
+          "text": "交",
+          "probability": 0.995,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 2.0,
+          "end": 2.26,
+          "text": "易",
+          "probability": 0.9989,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 2.26,
+          "end": 2.5,
+          "text": "几",
+          "probability": 0.9913,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 2.5,
+          "end": 2.72,
+          "text": "乎",
+          "probability": 0.9999,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 2.72,
+          "end": 2.94,
+          "text": "停",
+          "probability": 0.9947,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 2.94,
+          "end": 3.18,
+          "text": "滞",
+          "probability": 0.9188,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 3.18,
+          "end": 3.32,
+          "text": "的",
+          "probability": 0.9818,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 3.32,
+          "end": 3.8,
+          "text": "情况",
+          "probability": 0.9969,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        }
+      ],
+      "source_segment_id": "s00001",
+      "segment_id": "s00001"
+    },
+    {
+      "start": 3.8,
+      "end": 4.56,
+      "text": "一",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 3.8,
+          "end": 4.56,
+          "text": "一",
+          "probability": 0.2461,
+          "speaker_id": null,
+          "speaker_coverage": 0.214
+        }
+      ],
+      "source_segment_id": "s00002",
+      "segment_id": "s00002"
+    },
+    {
+      "start": 5.44,
+      "end": 8.32,
+      "text": "二线城市虽然也处于调整中",
+      "speaker_id": "SPEAKER_00",
+      "words": [
+        {
+          "start": 5.44,
+          "end": 5.68,
+          "text": "二",
+          "probability": 0.8118,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 5.68,
+          "end": 5.96,
+          "text": "线",
+          "probability": 0.9134,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 5.96,
+          "end": 6.24,
+          "text": "城",
+          "probability": 0.9884,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 6.24,
+          "end": 6.48,
+          "text": "市",
+          "probability": 0.9992,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 6.48,
+          "end": 6.7,
+          "text": "虽",
+          "probability": 0.9875,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 6.7,
+          "end": 6.96,
+          "text": "然",
+          "probability": 0.9999,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 6.96,
+          "end": 7.18,
+          "text": "也",
+          "probability": 0.9956,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 7.18,
+          "end": 7.4,
+          "text": "处",
+          "probability": 0.9953,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 7.4,
+          "end": 7.58,
+          "text": "于",
+          "probability": 0.9961,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 7.58,
+          "end": 7.84,
+          "text": "调",
+          "probability": 0.994,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 7.84,
+          "end": 8.02,
+          "text": "整",
+          "probability": 0.9998,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        },
+        {
+          "start": 8.02,
+          "end": 8.32,
+          "text": "中",
+          "probability": 0.9928,
+          "speaker_id": "SPEAKER_00",
+          "speaker_coverage": 1.0
+        }
+      ],
+      "source_segment_id": "s00002",
+      "segment_id": "s00003"
+    }
+  ],
+  "errors": [
+    {
+      "type": "insufficient_speaker_coverage",
+      "start": 3.8,
+      "end": 4.56,
+      "text": "一"
+    }
+  ]
+}

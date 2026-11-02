@@ -1,0 +1,80 @@
+{
+  "case": "A",
+  "reference_type": "original_corpus_transcripts",
+  "text": {
+    "cer": 0.05143,
+    "reference_characters": 175,
+    "hypothesis_characters": 175,
+    "substitutions": 9,
+    "deletions": 0,
+    "insertions": 0,
+    "normalization": "NFKC; strip punctuation/symbols/whitespace; lowercase; digits not expanded",
+    "error_examples": [
+      {
+        "type": "substitution",
+        "reference_index": 36,
+        "hypothesis_index": 36,
+        "reference": "过多公共资源为了规",
+        "hypothesis": "过多公共私员为了规"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 37,
+        "hypothesis_index": 37,
+        "reference": "多公共资源为了规避",
+        "hypothesis": "多公共私员为了规避"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 58,
+        "hypothesis_index": 58,
+        "reference": "风险标杆房企必然调",
+        "hypothesis": "风险标杆防起必然调"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 59,
+        "hypothesis_index": 59,
+        "reference": "险标杆房企必然调整",
+        "hypothesis": "险标杆防起必然调整"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 117,
+        "hypothesis_index": 117,
+        "reference": "北京仅新增住宅土地",
+        "hypothesis": "北京仅新松住宅土地"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 124,
+        "hypothesis_index": 124,
+        "reference": "土地供应十宗开发边",
+        "hypothesis": "土地供应失踪开发边"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 125,
+        "hypothesis_index": 125,
+        "reference": "地供应十宗开发边界",
+        "hypothesis": "地供应失踪开发边界"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 147,
+        "hypothesis_index": 147,
+        "reference": "得超越界限盲目扩张",
+        "hypothesis": "得超越界线盲目扩张"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 160,
+        "hypothesis_index": 160,
+        "reference": "的只有几宗土地再加",
+        "hypothesis": "的只有几松土地再加"
+      }
+    ]
+  },
+  "timestamp_issues": [],
+  "timestamp_order_issues": []
+}

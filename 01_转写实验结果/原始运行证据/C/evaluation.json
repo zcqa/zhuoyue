@@ -1,0 +1,651 @@
+{
+  "case": "C",
+  "reference_type": "original_corpus_transcripts",
+  "text": {
+    "cer": 0.14286,
+    "reference_characters": 350,
+    "hypothesis_characters": 347,
+    "substitutions": 47,
+    "deletions": 3,
+    "insertions": 0,
+    "normalization": "NFKC; strip punctuation/symbols/whitespace; lowercase; digits not expanded",
+    "error_examples": [
+      {
+        "type": "substitution",
+        "reference_index": 38,
+        "hypothesis_index": 38,
+        "reference": "中楼市地市交相升温",
+        "hypothesis": "中楼市地势焦香深温"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 39,
+        "hypothesis_index": 39,
+        "reference": "楼市地市交相升温房",
+        "hypothesis": "楼市地势焦香深温房"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 40,
+        "hypothesis_index": 40,
+        "reference": "市地市交相升温房价",
+        "hypothesis": "市地势焦香深温房价"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 41,
+        "hypothesis_index": 41,
+        "reference": "地市交相升温房价会",
+        "hypothesis": "地势焦香深温房价会"
+      },
+      {
+        "type": "deletion",
+        "reference_index": 52,
+        "reference": "再度暴涨但因为聚集"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 62,
+        "hypothesis_index": 61,
+        "reference": "过多公共资源经济热",
+        "hypothesis": "过多公共私员经济热"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 63,
+        "hypothesis_index": 62,
+        "reference": "多公共资源经济热点",
+        "hypothesis": "多公共私员经济热点"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 69,
+        "hypothesis_index": 68,
+        "reference": "济热点导读专家认为",
+        "hypothesis": "济热点导渡专家认为"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 127,
+        "hypothesis_index": 126,
+        "reference": "为了将后辈的婚姻分",
+        "hypothesis": "为了将后备的婚姻分"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 132,
+        "hypothesis_index": 131,
+        "reference": "的婚姻分险隔断因此",
+        "hypothesis": "的婚姻分显隔断因此"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 154,
+        "hypothesis_index": 153,
+        "reference": "为直系血亲后代非配",
+        "hypothesis": "为直系血清后代非配"
+      },
+      {
+        "type": "deletion",
+        "reference_index": 176,
+        "reference": "张大伟说按公司持有"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 184,
+        "hypothesis_index": 182,
+        "reference": "有房产计征一线城市",
+        "hypothesis": "有房产计真一线城市"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 197,
+        "hypothesis_index": 195,
+        "reference": "量减少相关公司股票",
+        "hypothesis": "量减少相關公司股票"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 203,
+        "hypothesis_index": 201,
+        "reference": "司股票走势也助推了",
+        "hypothesis": "司股票走勢也助推了"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 211,
+        "hypothesis_index": 209,
+        "reference": "了土地市场的火爆房",
+        "hypothesis": "了土地市場的火爆房"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 216,
+        "hypothesis_index": 214,
+        "reference": "的火爆房价起飞前购",
+        "hypothesis": "的火爆房價起飛前勾"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 218,
+        "hypothesis_index": 216,
+        "reference": "爆房价起飞前购置了",
+        "hypothesis": "爆房價起飛前勾置了"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 220,
+        "hypothesis_index": 218,
+        "reference": "价起飞前购置了十几",
+        "hypothesis": "價起飛前勾置了十幾"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 224,
+        "hypothesis_index": 222,
+        "reference": "购置了十几套房产北",
+        "hypothesis": "勾置了十幾套房產經"
+      },
+      {
+        "type": "deletion",
+        "reference_index": 227,
+        "reference": "十几套房产北京仅新"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 228,
+        "hypothesis_index": 225,
+        "reference": "几套房产北京仅新增",
+        "hypothesis": "十幾套房產經緊信生"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 229,
+        "hypothesis_index": 226,
+        "reference": "套房产北京仅新增住",
+        "hypothesis": "幾套房產經緊信生住"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 230,
+        "hypothesis_index": 227,
+        "reference": "房产北京仅新增住宅",
+        "hypothesis": "套房產經緊信生住宅"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 231,
+        "hypothesis_index": 228,
+        "reference": "产北京仅新增住宅土",
+        "hypothesis": "房產經緊信生住宅土"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 232,
+        "hypothesis_index": 229,
+        "reference": "北京仅新增住宅土地",
+        "hypothesis": "產經緊信生住宅土地"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 238,
+        "hypothesis_index": 235,
+        "reference": "宅土地供应十宗目前",
+        "hypothesis": "宅土地供應失送目前"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 239,
+        "hypothesis_index": 236,
+        "reference": "土地供应十宗目前总",
+        "hypothesis": "土地供應失送目前總"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 240,
+        "hypothesis_index": 237,
+        "reference": "地供应十宗目前总估",
+        "hypothesis": "地供應失送目前總估"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 243,
+        "hypothesis_index": 240,
+        "reference": "十宗目前总估值已过",
+        "hypothesis": "失送目前總估值已過"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 247,
+        "hypothesis_index": 244,
+        "reference": "总估值已过亿元开发",
+        "hypothesis": "總估值已過億元開發"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 248,
+        "hypothesis_index": 245,
+        "reference": "估值已过亿元开发边",
+        "hypothesis": "估值已過億元開發邊"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 250,
+        "hypothesis_index": 247,
+        "reference": "已过亿元开发边界将",
+        "hypothesis": "已過億元開發邊界將"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 251,
+        "hypothesis_index": 248,
+        "reference": "过亿元开发边界将作",
+        "hypothesis": "過億元開發邊界將作"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 252,
+        "hypothesis_index": 249,
+        "reference": "亿元开发边界将作为",
+        "hypothesis": "億元開發邊界將作為"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 254,
+        "hypothesis_index": 251,
+        "reference": "开发边界将作为城市",
+        "hypothesis": "開發邊界將作為城市"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 256,
+        "hypothesis_index": 253,
+        "reference": "边界将作为城市发展",
+        "hypothesis": "邊界將作為城市發展"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 259,
+        "hypothesis_index": 256,
+        "reference": "作为城市发展的刚性",
+        "hypothesis": "作為城市發展的剛性"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 262,
+        "hypothesis_index": 259,
+        "reference": "市发展的刚性约定这",
+        "hypothesis": "市發展的剛性約定這"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 264,
+        "hypothesis_index": 261,
+        "reference": "展的刚性约定这些房",
+        "hypothesis": "展的剛性約定這些房"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 266,
+        "hypothesis_index": 263,
+        "reference": "刚性约定这些房产全",
+        "hypothesis": "剛性約定這些房產全"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 269,
+        "hypothesis_index": 266,
+        "reference": "定这些房产全由宋芳",
+        "hypothesis": "定這些房產全由送方"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 272,
+        "hypothesis_index": 269,
+        "reference": "房产全由宋芳自己打",
+        "hypothesis": "房產全由送方自己打"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 273,
+        "hypothesis_index": 270,
+        "reference": "产全由宋芳自己打理",
+        "hypothesis": "產全由送方自己打理"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 286,
+        "hypothesis_index": 283,
+        "reference": "界限盲目扩张每月光",
+        "hypothesis": "界限盲目擴張每月光"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 287,
+        "hypothesis_index": 284,
+        "reference": "限盲目扩张每月光租",
+        "hypothesis": "限盲目擴張每月光租"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 296,
+        "hypothesis_index": 293,
+        "reference": "金收入便已远大于自",
+        "hypothesis": "金收入便宜远大于自"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 317,
+        "hypothesis_index": 314,
+        "reference": "的只有几宗土地宋芳",
+        "hypothesis": "的只有几宋土地送风"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 320,
+        "hypothesis_index": 317,
+        "reference": "几宗土地宋芳最近却",
+        "hypothesis": "几宋土地送风最近却"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 321,
+        "hypothesis_index": 318,
+        "reference": "宗土地宋芳最近却有",
+        "hypothesis": "宋土地送风最近却有"
+      }
+    ]
+  },
+  "speakers": {
+    "mapping": {
+      "SPEAKER_00": "S0764",
+      "SPEAKER_01": "S0765"
+    },
+    "counts": {
+      "correct": 307,
+      "unknown_speaker": 11,
+      "speaker_confusion": 16
+    },
+    "nonoverlap_word_count": 334,
+    "speaker_error_fraction": 0.08084,
+    "scope": "construction-reference word-midpoint diagnostic; NOT DER, NOT human verified speaker accuracy",
+    "errors": [
+      {
+        "type": "unknown_speaker",
+        "start": 3.78,
+        "end": 4.54,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 7.36,
+        "end": 8.06,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 11.77,
+        "end": 12.43,
+        "text": "楼",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 13.24,
+        "end": 13.5,
+        "text": "市",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 13.5,
+        "end": 13.72,
+        "text": "地",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 13.72,
+        "end": 13.98,
+        "text": "势",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 13.98,
+        "end": 14.3,
+        "text": "焦",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 14.3,
+        "end": 14.56,
+        "text": "香",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 14.56,
+        "end": 14.82,
+        "text": "深",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 14.82,
+        "end": 15.02,
+        "text": "温",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 21.6,
+        "end": 22.16,
+        "text": "经",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 41.42,
+        "end": 42.02,
+        "text": "为",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 45.34,
+        "end": 46.0,
+        "text": "因",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 49.14,
+        "end": 49.84,
+        "text": "将",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 50.62,
+        "end": 50.9,
+        "text": "受",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 50.9,
+        "end": 51.12,
+        "text": "益",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 59.42,
+        "end": 59.94,
+        "text": "公",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 62.93,
+        "end": 63.37,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 67.77,
+        "end": 68.31,
+        "text": "相",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.31,
+        "end": 68.57,
+        "text": "關",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.57,
+        "end": 68.77,
+        "text": "公",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 68.77,
+        "end": 69.03,
+        "text": "司",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.03,
+        "end": 69.29,
+        "text": "股",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.29,
+        "end": 69.57,
+        "text": "票",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.57,
+        "end": 69.79,
+        "text": "走",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.79,
+        "end": 70.07,
+        "text": "勢,",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "S0765"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 100.62,
+        "end": 101.36,
+        "text": "每",
+        "predicted": null,
+        "reference_speakers": [
+          "S0764"
+        ]
+      }
+    ],
+    "missing_turn_candidates": [],
+    "predicted_speakers": 2,
+    "reference_speakers": 2,
+    "predicted_speakers_scope": "distinct labels on recognized words; diarization may have additional tracks without recognized text"
+  },
+  "timestamp_issues": [],
+  "timestamp_order_issues": []
+}

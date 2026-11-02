@@ -1,0 +1,2268 @@
+{
+  "duration_s": 123.581,
+  "elapsed_s": 3.3369,
+  "rtf": 0.027,
+  "language": "zh",
+  "language_probability": 1,
+  "engine": {
+    "engine": "faster-whisper",
+    "version": "1.2.1",
+    "model": "faster-whisper-small",
+    "device": "cuda",
+    "compute_type": "float16",
+    "cpu_threads": 8,
+    "ctranslate2_version": "4.4.0",
+    "load_elapsed_s": 1.2591
+  },
+  "segments": [
+    {
+      "segment_id": "s00001",
+      "start": 0.66,
+      "end": 3.78,
+      "text": "甚至出现交易几乎停滞的情况",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 0.66,
+          "end": 0.96,
+          "text": "甚",
+          "probability": 0.9658
+        },
+        {
+          "start": 0.96,
+          "end": 1.22,
+          "text": "至",
+          "probability": 1.0
+        },
+        {
+          "start": 1.22,
+          "end": 1.44,
+          "text": "出",
+          "probability": 0.9868
+        },
+        {
+          "start": 1.44,
+          "end": 1.7,
+          "text": "现",
+          "probability": 0.5894
+        },
+        {
+          "start": 1.7,
+          "end": 2.0,
+          "text": "交",
+          "probability": 0.9907
+        },
+        {
+          "start": 2.0,
+          "end": 2.26,
+          "text": "易",
+          "probability": 0.9985
+        },
+        {
+          "start": 2.26,
+          "end": 2.48,
+          "text": "几",
+          "probability": 0.99
+        },
+        {
+          "start": 2.48,
+          "end": 2.72,
+          "text": "乎",
+          "probability": 1.0
+        },
+        {
+          "start": 2.72,
+          "end": 2.96,
+          "text": "停",
+          "probability": 0.9946
+        },
+        {
+          "start": 2.96,
+          "end": 3.16,
+          "text": "滞",
+          "probability": 0.9355
+        },
+        {
+          "start": 3.16,
+          "end": 3.32,
+          "text": "的",
+          "probability": 0.9873
+        },
+        {
+          "start": 3.32,
+          "end": 3.78,
+          "text": "情况",
+          "probability": 0.998
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00002",
+      "start": 3.78,
+      "end": 7.36,
+      "text": "一线城市出现日光盘",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 3.78,
+          "end": 4.54,
+          "text": "一",
+          "probability": 0.6157
+        },
+        {
+          "start": 5.42,
+          "end": 5.68,
+          "text": "线",
+          "probability": 0.9902
+        },
+        {
+          "start": 5.68,
+          "end": 5.88,
+          "text": "城",
+          "probability": 0.9897
+        },
+        {
+          "start": 5.88,
+          "end": 6.14,
+          "text": "市",
+          "probability": 0.9995
+        },
+        {
+          "start": 6.14,
+          "end": 6.36,
+          "text": "出",
+          "probability": 0.9849
+        },
+        {
+          "start": 6.36,
+          "end": 6.6,
+          "text": "现",
+          "probability": 0.9873
+        },
+        {
+          "start": 6.6,
+          "end": 6.84,
+          "text": "日",
+          "probability": 0.9863
+        },
+        {
+          "start": 6.84,
+          "end": 7.02,
+          "text": "光",
+          "probability": 0.999
+        },
+        {
+          "start": 7.02,
+          "end": 7.36,
+          "text": "盘",
+          "probability": 0.9949
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00003",
+      "start": 7.36,
+      "end": 11.77,
+      "text": "一二线城市虽然也处于调整中",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 7.36,
+          "end": 8.06,
+          "text": "一",
+          "probability": 0.6885
+        },
+        {
+          "start": 8.85,
+          "end": 9.09,
+          "text": "二",
+          "probability": 0.8677
+        },
+        {
+          "start": 9.09,
+          "end": 9.35,
+          "text": "线",
+          "probability": 0.9993
+        },
+        {
+          "start": 9.35,
+          "end": 9.63,
+          "text": "城",
+          "probability": 0.998
+        },
+        {
+          "start": 9.63,
+          "end": 9.89,
+          "text": "市",
+          "probability": 1.0
+        },
+        {
+          "start": 9.89,
+          "end": 10.07,
+          "text": "虽",
+          "probability": 0.9756
+        },
+        {
+          "start": 10.07,
+          "end": 10.35,
+          "text": "然",
+          "probability": 1.0
+        },
+        {
+          "start": 10.35,
+          "end": 10.57,
+          "text": "也",
+          "probability": 0.9976
+        },
+        {
+          "start": 10.57,
+          "end": 10.79,
+          "text": "处",
+          "probability": 0.9932
+        },
+        {
+          "start": 10.79,
+          "end": 10.97,
+          "text": "于",
+          "probability": 0.9976
+        },
+        {
+          "start": 10.97,
+          "end": 11.21,
+          "text": "调",
+          "probability": 0.9949
+        },
+        {
+          "start": 11.21,
+          "end": 11.43,
+          "text": "整",
+          "probability": 1.0
+        },
+        {
+          "start": 11.43,
+          "end": 11.77,
+          "text": "中",
+          "probability": 0.9917
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00004",
+      "start": 11.77,
+      "end": 15.02,
+      "text": "楼市地势焦香深温",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 11.77,
+          "end": 12.43,
+          "text": "楼",
+          "probability": 0.9849
+        },
+        {
+          "start": 13.24,
+          "end": 13.5,
+          "text": "市",
+          "probability": 0.9023
+        },
+        {
+          "start": 13.5,
+          "end": 13.72,
+          "text": "地",
+          "probability": 0.7637
+        },
+        {
+          "start": 13.72,
+          "end": 13.98,
+          "text": "势",
+          "probability": 0.762
+        },
+        {
+          "start": 13.98,
+          "end": 14.3,
+          "text": "焦",
+          "probability": 0.6949
+        },
+        {
+          "start": 14.3,
+          "end": 14.56,
+          "text": "香",
+          "probability": 0.8022
+        },
+        {
+          "start": 14.56,
+          "end": 14.82,
+          "text": "深",
+          "probability": 0.5557
+        },
+        {
+          "start": 14.82,
+          "end": 15.02,
+          "text": "温",
+          "probability": 0.9988
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00005",
+      "start": 15.02,
+      "end": 17.22,
+      "text": "房价会不会再度暴涨",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 15.02,
+          "end": 15.5,
+          "text": "房",
+          "probability": 0.5991
+        },
+        {
+          "start": 15.5,
+          "end": 15.68,
+          "text": "价",
+          "probability": 0.999
+        },
+        {
+          "start": 15.68,
+          "end": 15.9,
+          "text": "会",
+          "probability": 0.9976
+        },
+        {
+          "start": 15.9,
+          "end": 16.1,
+          "text": "不会",
+          "probability": 0.9976
+        },
+        {
+          "start": 16.1,
+          "end": 16.5,
+          "text": "再",
+          "probability": 0.9946
+        },
+        {
+          "start": 16.5,
+          "end": 16.7,
+          "text": "度",
+          "probability": 0.999
+        },
+        {
+          "start": 16.7,
+          "end": 16.94,
+          "text": "暴",
+          "probability": 0.9597
+        },
+        {
+          "start": 16.94,
+          "end": 17.22,
+          "text": "涨",
+          "probability": 0.9976
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00006",
+      "start": 18.36,
+      "end": 21.6,
+      "text": "因为聚集了过多公共私员",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 18.36,
+          "end": 19.16,
+          "text": "因为",
+          "probability": 0.2072
+        },
+        {
+          "start": 19.16,
+          "end": 19.58,
+          "text": "聚",
+          "probability": 0.8757
+        },
+        {
+          "start": 19.58,
+          "end": 19.82,
+          "text": "集",
+          "probability": 0.9912
+        },
+        {
+          "start": 19.82,
+          "end": 20.06,
+          "text": "了",
+          "probability": 0.9946
+        },
+        {
+          "start": 20.06,
+          "end": 20.36,
+          "text": "过",
+          "probability": 0.9746
+        },
+        {
+          "start": 20.36,
+          "end": 20.62,
+          "text": "多",
+          "probability": 0.9995
+        },
+        {
+          "start": 20.62,
+          "end": 20.84,
+          "text": "公",
+          "probability": 0.999
+        },
+        {
+          "start": 20.84,
+          "end": 21.08,
+          "text": "共",
+          "probability": 0.9751
+        },
+        {
+          "start": 21.08,
+          "end": 21.32,
+          "text": "私",
+          "probability": 0.3286
+        },
+        {
+          "start": 21.32,
+          "end": 21.6,
+          "text": "员",
+          "probability": 0.8555
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00007",
+      "start": 21.6,
+      "end": 25.31,
+      "text": "经济热点导渡专家认为",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 21.6,
+          "end": 22.16,
+          "text": "经",
+          "probability": 0.8525
+        },
+        {
+          "start": 23.07,
+          "end": 23.27,
+          "text": "济",
+          "probability": 0.9775
+        },
+        {
+          "start": 23.27,
+          "end": 23.53,
+          "text": "热",
+          "probability": 0.9983
+        },
+        {
+          "start": 23.53,
+          "end": 23.73,
+          "text": "点",
+          "probability": 0.9971
+        },
+        {
+          "start": 23.73,
+          "end": 23.99,
+          "text": "导",
+          "probability": 0.9436
+        },
+        {
+          "start": 23.99,
+          "end": 24.15,
+          "text": "渡",
+          "probability": 0.8118
+        },
+        {
+          "start": 24.15,
+          "end": 24.39,
+          "text": "专",
+          "probability": 0.9966
+        },
+        {
+          "start": 24.39,
+          "end": 24.61,
+          "text": "家",
+          "probability": 0.9985
+        },
+        {
+          "start": 24.61,
+          "end": 24.93,
+          "text": "认",
+          "probability": 0.9995
+        },
+        {
+          "start": 24.93,
+          "end": 25.31,
+          "text": "为",
+          "probability": 0.9966
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00008",
+      "start": 26.1,
+      "end": 30.96,
+      "text": "为了规避三四线城市明显过剩的市场风险",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 26.1,
+          "end": 26.7,
+          "text": "为",
+          "probability": 0.9917
+        },
+        {
+          "start": 26.7,
+          "end": 26.96,
+          "text": "了",
+          "probability": 0.9888
+        },
+        {
+          "start": 26.96,
+          "end": 27.16,
+          "text": "规",
+          "probability": 0.812
+        },
+        {
+          "start": 27.16,
+          "end": 27.4,
+          "text": "避",
+          "probability": 0.979
+        },
+        {
+          "start": 27.4,
+          "end": 27.68,
+          "text": "三",
+          "probability": 0.9653
+        },
+        {
+          "start": 27.68,
+          "end": 27.9,
+          "text": "四",
+          "probability": 0.9214
+        },
+        {
+          "start": 27.9,
+          "end": 28.16,
+          "text": "线",
+          "probability": 0.988
+        },
+        {
+          "start": 28.16,
+          "end": 28.42,
+          "text": "城",
+          "probability": 0.9985
+        },
+        {
+          "start": 28.42,
+          "end": 28.7,
+          "text": "市",
+          "probability": 1.0
+        },
+        {
+          "start": 28.7,
+          "end": 28.9,
+          "text": "明",
+          "probability": 0.9927
+        },
+        {
+          "start": 28.9,
+          "end": 29.16,
+          "text": "显",
+          "probability": 0.998
+        },
+        {
+          "start": 29.16,
+          "end": 29.4,
+          "text": "过",
+          "probability": 0.9849
+        },
+        {
+          "start": 29.4,
+          "end": 29.62,
+          "text": "剩",
+          "probability": 0.9636
+        },
+        {
+          "start": 29.62,
+          "end": 29.86,
+          "text": "的",
+          "probability": 0.9937
+        },
+        {
+          "start": 29.86,
+          "end": 30.16,
+          "text": "市",
+          "probability": 0.9985
+        },
+        {
+          "start": 30.16,
+          "end": 30.4,
+          "text": "场",
+          "probability": 0.9995
+        },
+        {
+          "start": 30.4,
+          "end": 30.6,
+          "text": "风",
+          "probability": 0.9941
+        },
+        {
+          "start": 30.6,
+          "end": 30.96,
+          "text": "险",
+          "probability": 0.9993
+        }
+      ],
+      "avg_logprob": -0.16796875416355975,
+      "no_speech_prob": 0.376708984375
+    },
+    {
+      "segment_id": "s00009",
+      "start": 31.74,
+      "end": 37.0,
+      "text": "我国房地产市场过去总体偏紧部分地区过紧",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 31.74,
+          "end": 32.22,
+          "text": "我",
+          "probability": 0.4321
+        },
+        {
+          "start": 32.22,
+          "end": 32.42,
+          "text": "国",
+          "probability": 0.4624
+        },
+        {
+          "start": 32.42,
+          "end": 32.66,
+          "text": "房",
+          "probability": 0.9453
+        },
+        {
+          "start": 32.66,
+          "end": 32.86,
+          "text": "地",
+          "probability": 0.9917
+        },
+        {
+          "start": 32.86,
+          "end": 33.08,
+          "text": "产",
+          "probability": 0.9995
+        },
+        {
+          "start": 33.08,
+          "end": 33.36,
+          "text": "市",
+          "probability": 0.9937
+        },
+        {
+          "start": 33.36,
+          "end": 33.6,
+          "text": "场",
+          "probability": 0.9951
+        },
+        {
+          "start": 33.6,
+          "end": 33.82,
+          "text": "过",
+          "probability": 0.9595
+        },
+        {
+          "start": 33.82,
+          "end": 34.04,
+          "text": "去",
+          "probability": 0.9746
+        },
+        {
+          "start": 34.04,
+          "end": 34.28,
+          "text": "总",
+          "probability": 0.9858
+        },
+        {
+          "start": 34.28,
+          "end": 34.52,
+          "text": "体",
+          "probability": 0.9648
+        },
+        {
+          "start": 34.52,
+          "end": 34.84,
+          "text": "偏",
+          "probability": 0.9937
+        },
+        {
+          "start": 34.84,
+          "end": 35.1,
+          "text": "紧",
+          "probability": 0.9885
+        },
+        {
+          "start": 35.1,
+          "end": 35.5,
+          "text": "部分",
+          "probability": 0.4697
+        },
+        {
+          "start": 35.5,
+          "end": 35.86,
+          "text": "地",
+          "probability": 0.9937
+        },
+        {
+          "start": 35.86,
+          "end": 36.08,
+          "text": "区",
+          "probability": 0.9993
+        },
+        {
+          "start": 36.08,
+          "end": 36.4,
+          "text": "过",
+          "probability": 0.9917
+        },
+        {
+          "start": 36.4,
+          "end": 37.0,
+          "text": "紧",
+          "probability": 0.9866
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00010",
+      "start": 37.88,
+      "end": 41.42,
+      "text": "标杆房企必然调整市场战略",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 37.88,
+          "end": 38.26,
+          "text": "标",
+          "probability": 0.5003
+        },
+        {
+          "start": 38.26,
+          "end": 38.54,
+          "text": "杆",
+          "probability": 0.8333
+        },
+        {
+          "start": 38.54,
+          "end": 38.84,
+          "text": "房",
+          "probability": 0.9116
+        },
+        {
+          "start": 38.84,
+          "end": 39.18,
+          "text": "企",
+          "probability": 0.905
+        },
+        {
+          "start": 39.18,
+          "end": 39.5,
+          "text": "必",
+          "probability": 0.9927
+        },
+        {
+          "start": 39.5,
+          "end": 39.76,
+          "text": "然",
+          "probability": 0.998
+        },
+        {
+          "start": 39.76,
+          "end": 40.04,
+          "text": "调",
+          "probability": 0.9856
+        },
+        {
+          "start": 40.04,
+          "end": 40.26,
+          "text": "整",
+          "probability": 0.9976
+        },
+        {
+          "start": 40.26,
+          "end": 40.58,
+          "text": "市",
+          "probability": 0.9956
+        },
+        {
+          "start": 40.58,
+          "end": 40.88,
+          "text": "场",
+          "probability": 0.998
+        },
+        {
+          "start": 40.88,
+          "end": 41.14,
+          "text": "战",
+          "probability": 0.9619
+        },
+        {
+          "start": 41.14,
+          "end": 41.42,
+          "text": "略",
+          "probability": 0.9998
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00011",
+      "start": 41.42,
+      "end": 45.34,
+      "text": "为了将后备的婚姻分显隔断",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 41.42,
+          "end": 42.02,
+          "text": "为",
+          "probability": 0.9199
+        },
+        {
+          "start": 42.8,
+          "end": 43.02,
+          "text": "了",
+          "probability": 0.9961
+        },
+        {
+          "start": 43.02,
+          "end": 43.2,
+          "text": "将",
+          "probability": 0.9854
+        },
+        {
+          "start": 43.2,
+          "end": 43.46,
+          "text": "后",
+          "probability": 0.9946
+        },
+        {
+          "start": 43.46,
+          "end": 43.64,
+          "text": "备",
+          "probability": 0.7123
+        },
+        {
+          "start": 43.64,
+          "end": 43.86,
+          "text": "的",
+          "probability": 0.9966
+        },
+        {
+          "start": 43.86,
+          "end": 44.1,
+          "text": "婚",
+          "probability": 0.9973
+        },
+        {
+          "start": 44.1,
+          "end": 44.34,
+          "text": "姻",
+          "probability": 0.999
+        },
+        {
+          "start": 44.34,
+          "end": 44.58,
+          "text": "分",
+          "probability": 0.9771
+        },
+        {
+          "start": 44.58,
+          "end": 44.82,
+          "text": "显",
+          "probability": 0.8398
+        },
+        {
+          "start": 44.82,
+          "end": 45.1,
+          "text": "隔",
+          "probability": 0.6617
+        },
+        {
+          "start": 45.1,
+          "end": 45.34,
+          "text": "断",
+          "probability": 0.9924
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00012",
+      "start": 45.34,
+      "end": 49.14,
+      "text": "因此土地储备至关重要",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 45.34,
+          "end": 46.0,
+          "text": "因",
+          "probability": 0.9473
+        },
+        {
+          "start": 46.82,
+          "end": 47.18,
+          "text": "此",
+          "probability": 1.0
+        },
+        {
+          "start": 47.18,
+          "end": 47.54,
+          "text": "土",
+          "probability": 0.8218
+        },
+        {
+          "start": 47.54,
+          "end": 47.78,
+          "text": "地",
+          "probability": 1.0
+        },
+        {
+          "start": 47.78,
+          "end": 47.98,
+          "text": "储",
+          "probability": 0.9541
+        },
+        {
+          "start": 47.98,
+          "end": 48.22,
+          "text": "备",
+          "probability": 0.999
+        },
+        {
+          "start": 48.22,
+          "end": 48.48,
+          "text": "至",
+          "probability": 0.561
+        },
+        {
+          "start": 48.48,
+          "end": 48.72,
+          "text": "关",
+          "probability": 0.9912
+        },
+        {
+          "start": 48.72,
+          "end": 49.14,
+          "text": "重要",
+          "probability": 0.9888
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00013",
+      "start": 49.14,
+      "end": 54.96,
+      "text": "将受益人定为直系血清后代非配偶继承人",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 49.14,
+          "end": 49.84,
+          "text": "将",
+          "probability": 0.8354
+        },
+        {
+          "start": 50.62,
+          "end": 50.9,
+          "text": "受",
+          "probability": 0.9722
+        },
+        {
+          "start": 50.9,
+          "end": 51.12,
+          "text": "益",
+          "probability": 0.8259
+        },
+        {
+          "start": 51.12,
+          "end": 51.34,
+          "text": "人",
+          "probability": 0.8589
+        },
+        {
+          "start": 51.34,
+          "end": 51.54,
+          "text": "定",
+          "probability": 0.9663
+        },
+        {
+          "start": 51.54,
+          "end": 51.78,
+          "text": "为",
+          "probability": 0.9619
+        },
+        {
+          "start": 51.78,
+          "end": 52.04,
+          "text": "直",
+          "probability": 0.5996
+        },
+        {
+          "start": 52.04,
+          "end": 52.3,
+          "text": "系",
+          "probability": 0.854
+        },
+        {
+          "start": 52.3,
+          "end": 52.56,
+          "text": "血",
+          "probability": 0.9043
+        },
+        {
+          "start": 52.56,
+          "end": 52.76,
+          "text": "清",
+          "probability": 0.6455
+        },
+        {
+          "start": 52.76,
+          "end": 53.06,
+          "text": "后",
+          "probability": 0.7114
+        },
+        {
+          "start": 53.06,
+          "end": 53.3,
+          "text": "代",
+          "probability": 0.7847
+        },
+        {
+          "start": 53.3,
+          "end": 53.7,
+          "text": "非",
+          "probability": 0.8892
+        },
+        {
+          "start": 53.7,
+          "end": 53.98,
+          "text": "配",
+          "probability": 0.9067
+        },
+        {
+          "start": 53.98,
+          "end": 54.18,
+          "text": "偶",
+          "probability": 0.9773
+        },
+        {
+          "start": 54.18,
+          "end": 54.36,
+          "text": "继",
+          "probability": 0.8491
+        },
+        {
+          "start": 54.36,
+          "end": 54.58,
+          "text": "承",
+          "probability": 0.9741
+        },
+        {
+          "start": 54.58,
+          "end": 54.96,
+          "text": "人",
+          "probability": 0.999
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00014",
+      "start": 55.78,
+      "end": 59.42,
+      "text": "中原地产首席分析师张大伟说",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 55.78,
+          "end": 56.28,
+          "text": "中",
+          "probability": 0.9331
+        },
+        {
+          "start": 56.28,
+          "end": 56.56,
+          "text": "原",
+          "probability": 0.9663
+        },
+        {
+          "start": 56.56,
+          "end": 56.8,
+          "text": "地",
+          "probability": 0.9922
+        },
+        {
+          "start": 56.8,
+          "end": 57.16,
+          "text": "产",
+          "probability": 1.0
+        },
+        {
+          "start": 57.16,
+          "end": 57.42,
+          "text": "首",
+          "probability": 0.9883
+        },
+        {
+          "start": 57.42,
+          "end": 57.68,
+          "text": "席",
+          "probability": 0.999
+        },
+        {
+          "start": 57.68,
+          "end": 57.96,
+          "text": "分",
+          "probability": 0.9976
+        },
+        {
+          "start": 57.96,
+          "end": 58.14,
+          "text": "析",
+          "probability": 0.9966
+        },
+        {
+          "start": 58.14,
+          "end": 58.38,
+          "text": "师",
+          "probability": 0.9917
+        },
+        {
+          "start": 58.38,
+          "end": 58.66,
+          "text": "张",
+          "probability": 0.9854
+        },
+        {
+          "start": 58.66,
+          "end": 58.88,
+          "text": "大",
+          "probability": 0.981
+        },
+        {
+          "start": 58.88,
+          "end": 59.04,
+          "text": "伟",
+          "probability": 0.9504
+        },
+        {
+          "start": 59.04,
+          "end": 59.42,
+          "text": "说",
+          "probability": 0.9829
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00015",
+      "start": 59.42,
+      "end": 62.93,
+      "text": "公司持有房产计真",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 59.42,
+          "end": 59.94,
+          "text": "公",
+          "probability": 0.1177
+        },
+        {
+          "start": 61.01,
+          "end": 61.41,
+          "text": "司",
+          "probability": 0.9917
+        },
+        {
+          "start": 61.41,
+          "end": 61.67,
+          "text": "持",
+          "probability": 0.9985
+        },
+        {
+          "start": 61.67,
+          "end": 61.89,
+          "text": "有",
+          "probability": 0.9995
+        },
+        {
+          "start": 61.89,
+          "end": 62.11,
+          "text": "房",
+          "probability": 0.9316
+        },
+        {
+          "start": 62.11,
+          "end": 62.35,
+          "text": "产",
+          "probability": 0.9998
+        },
+        {
+          "start": 62.35,
+          "end": 62.63,
+          "text": "计",
+          "probability": 0.8108
+        },
+        {
+          "start": 62.63,
+          "end": 62.93,
+          "text": "真",
+          "probability": 0.5942
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00016",
+      "start": 62.93,
+      "end": 66.86,
+      "text": "一线城市土地供应量减少",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 62.93,
+          "end": 63.37,
+          "text": "一",
+          "probability": 0.4924
+        },
+        {
+          "start": 64.48,
+          "end": 64.72,
+          "text": "线",
+          "probability": 0.9783
+        },
+        {
+          "start": 64.72,
+          "end": 64.94,
+          "text": "城",
+          "probability": 0.9897
+        },
+        {
+          "start": 64.94,
+          "end": 65.2,
+          "text": "市",
+          "probability": 0.999
+        },
+        {
+          "start": 65.2,
+          "end": 65.44,
+          "text": "土",
+          "probability": 0.9775
+        },
+        {
+          "start": 65.44,
+          "end": 65.64,
+          "text": "地",
+          "probability": 0.9995
+        },
+        {
+          "start": 65.64,
+          "end": 65.84,
+          "text": "供",
+          "probability": 0.9993
+        },
+        {
+          "start": 65.84,
+          "end": 66.02,
+          "text": "应",
+          "probability": 0.9985
+        },
+        {
+          "start": 66.02,
+          "end": 66.24,
+          "text": "量",
+          "probability": 0.9985
+        },
+        {
+          "start": 66.24,
+          "end": 66.52,
+          "text": "减",
+          "probability": 0.9983
+        },
+        {
+          "start": 66.52,
+          "end": 66.86,
+          "text": "少",
+          "probability": 0.9858
+        }
+      ],
+      "avg_logprob": -0.12324089492788377,
+      "no_speech_prob": 0.5263671875
+    },
+    {
+      "segment_id": "s00017",
+      "start": 67.77,
+      "end": 78.36,
+      "text": "相關公司股票走勢,也助推了土地市場的火爆,房價起飛前勾置了十幾套房產。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 67.77,
+          "end": 68.31,
+          "text": "相",
+          "probability": 0.3738
+        },
+        {
+          "start": 68.31,
+          "end": 68.57,
+          "text": "關",
+          "probability": 0.8149
+        },
+        {
+          "start": 68.57,
+          "end": 68.77,
+          "text": "公",
+          "probability": 0.9971
+        },
+        {
+          "start": 68.77,
+          "end": 69.03,
+          "text": "司",
+          "probability": 0.9907
+        },
+        {
+          "start": 69.03,
+          "end": 69.29,
+          "text": "股",
+          "probability": 0.9675
+        },
+        {
+          "start": 69.29,
+          "end": 69.57,
+          "text": "票",
+          "probability": 0.9995
+        },
+        {
+          "start": 69.57,
+          "end": 69.79,
+          "text": "走",
+          "probability": 0.9951
+        },
+        {
+          "start": 69.79,
+          "end": 70.07,
+          "text": "勢,",
+          "probability": 0.9385
+        },
+        {
+          "start": 71.35,
+          "end": 71.65,
+          "text": "也",
+          "probability": 0.9771
+        },
+        {
+          "start": 71.65,
+          "end": 71.85,
+          "text": "助",
+          "probability": 0.3762
+        },
+        {
+          "start": 71.85,
+          "end": 72.13,
+          "text": "推",
+          "probability": 0.9878
+        },
+        {
+          "start": 72.13,
+          "end": 72.33,
+          "text": "了",
+          "probability": 0.9971
+        },
+        {
+          "start": 72.33,
+          "end": 72.63,
+          "text": "土",
+          "probability": 0.9824
+        },
+        {
+          "start": 72.63,
+          "end": 72.83,
+          "text": "地",
+          "probability": 1.0
+        },
+        {
+          "start": 72.83,
+          "end": 73.05,
+          "text": "市",
+          "probability": 0.9902
+        },
+        {
+          "start": 73.05,
+          "end": 73.27,
+          "text": "場",
+          "probability": 0.9976
+        },
+        {
+          "start": 73.27,
+          "end": 73.43,
+          "text": "的",
+          "probability": 0.9912
+        },
+        {
+          "start": 73.43,
+          "end": 73.69,
+          "text": "火",
+          "probability": 0.9312
+        },
+        {
+          "start": 73.69,
+          "end": 73.95,
+          "text": "爆,",
+          "probability": 0.9404
+        },
+        {
+          "start": 75.22,
+          "end": 75.44,
+          "text": "房",
+          "probability": 0.9941
+        },
+        {
+          "start": 75.44,
+          "end": 75.68,
+          "text": "價",
+          "probability": 0.9976
+        },
+        {
+          "start": 75.68,
+          "end": 75.94,
+          "text": "起",
+          "probability": 0.9878
+        },
+        {
+          "start": 75.94,
+          "end": 76.16,
+          "text": "飛",
+          "probability": 0.9917
+        },
+        {
+          "start": 76.16,
+          "end": 76.44,
+          "text": "前",
+          "probability": 0.9873
+        },
+        {
+          "start": 76.44,
+          "end": 76.68,
+          "text": "勾",
+          "probability": 0.8003
+        },
+        {
+          "start": 76.68,
+          "end": 76.92,
+          "text": "置",
+          "probability": 0.363
+        },
+        {
+          "start": 76.92,
+          "end": 77.12,
+          "text": "了",
+          "probability": 0.9951
+        },
+        {
+          "start": 77.12,
+          "end": 77.4,
+          "text": "十",
+          "probability": 0.9722
+        },
+        {
+          "start": 77.4,
+          "end": 77.58,
+          "text": "幾",
+          "probability": 0.9912
+        },
+        {
+          "start": 77.58,
+          "end": 77.78,
+          "text": "套",
+          "probability": 0.9939
+        },
+        {
+          "start": 77.78,
+          "end": 78.04,
+          "text": "房",
+          "probability": 0.9946
+        },
+        {
+          "start": 78.04,
+          "end": 78.36,
+          "text": "產。",
+          "probability": 0.9941
+        }
+      ],
+      "avg_logprob": -0.17598684537306167,
+      "no_speech_prob": 0.8291015625
+    },
+    {
+      "segment_id": "s00018",
+      "start": 80.06,
+      "end": 92.63,
+      "text": "經緊信,生住宅土地供應失送,目前總估值已過億元,開發邊界將作為城市發展的剛性約定。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 80.06,
+          "end": 80.4,
+          "text": "經",
+          "probability": 0.9043
+        },
+        {
+          "start": 80.4,
+          "end": 80.78,
+          "text": "緊",
+          "probability": 0.4885
+        },
+        {
+          "start": 80.78,
+          "end": 81.18,
+          "text": "信,",
+          "probability": 0.3506
+        },
+        {
+          "start": 81.56,
+          "end": 81.7,
+          "text": "生",
+          "probability": 0.2032
+        },
+        {
+          "start": 81.7,
+          "end": 82.02,
+          "text": "住",
+          "probability": 0.6885
+        },
+        {
+          "start": 82.02,
+          "end": 82.3,
+          "text": "宅",
+          "probability": 0.9734
+        },
+        {
+          "start": 82.3,
+          "end": 82.58,
+          "text": "土",
+          "probability": 0.8091
+        },
+        {
+          "start": 82.58,
+          "end": 82.82,
+          "text": "地",
+          "probability": 1.0
+        },
+        {
+          "start": 82.82,
+          "end": 83.04,
+          "text": "供",
+          "probability": 0.9971
+        },
+        {
+          "start": 83.04,
+          "end": 83.24,
+          "text": "應",
+          "probability": 0.9976
+        },
+        {
+          "start": 83.24,
+          "end": 83.54,
+          "text": "失",
+          "probability": 0.7241
+        },
+        {
+          "start": 83.54,
+          "end": 83.84,
+          "text": "送,",
+          "probability": 0.4077
+        },
+        {
+          "start": 85.27,
+          "end": 85.63,
+          "text": "目前",
+          "probability": 0.9971
+        },
+        {
+          "start": 85.63,
+          "end": 85.99,
+          "text": "總",
+          "probability": 0.9888
+        },
+        {
+          "start": 85.99,
+          "end": 86.25,
+          "text": "估",
+          "probability": 0.9666
+        },
+        {
+          "start": 86.25,
+          "end": 86.47,
+          "text": "值",
+          "probability": 0.9976
+        },
+        {
+          "start": 86.47,
+          "end": 86.71,
+          "text": "已",
+          "probability": 0.9829
+        },
+        {
+          "start": 86.71,
+          "end": 86.91,
+          "text": "過",
+          "probability": 0.9849
+        },
+        {
+          "start": 86.91,
+          "end": 87.17,
+          "text": "億",
+          "probability": 0.4404
+        },
+        {
+          "start": 87.17,
+          "end": 87.47,
+          "text": "元,",
+          "probability": 0.9756
+        },
+        {
+          "start": 88.73,
+          "end": 88.93,
+          "text": "開",
+          "probability": 0.9907
+        },
+        {
+          "start": 88.93,
+          "end": 89.17,
+          "text": "發",
+          "probability": 0.9922
+        },
+        {
+          "start": 89.17,
+          "end": 89.45,
+          "text": "邊",
+          "probability": 0.9736
+        },
+        {
+          "start": 89.45,
+          "end": 89.71,
+          "text": "界",
+          "probability": 0.9966
+        },
+        {
+          "start": 89.71,
+          "end": 90.03,
+          "text": "將",
+          "probability": 0.7314
+        },
+        {
+          "start": 90.03,
+          "end": 90.23,
+          "text": "作",
+          "probability": 0.8384
+        },
+        {
+          "start": 90.23,
+          "end": 90.47,
+          "text": "為",
+          "probability": 0.9761
+        },
+        {
+          "start": 90.47,
+          "end": 90.71,
+          "text": "城",
+          "probability": 0.9868
+        },
+        {
+          "start": 90.71,
+          "end": 90.95,
+          "text": "市",
+          "probability": 0.999
+        },
+        {
+          "start": 90.95,
+          "end": 91.15,
+          "text": "發",
+          "probability": 0.9966
+        },
+        {
+          "start": 91.15,
+          "end": 91.33,
+          "text": "展",
+          "probability": 1.0
+        },
+        {
+          "start": 91.33,
+          "end": 91.57,
+          "text": "的",
+          "probability": 0.998
+        },
+        {
+          "start": 91.57,
+          "end": 91.81,
+          "text": "剛",
+          "probability": 0.5356
+        },
+        {
+          "start": 91.81,
+          "end": 92.11,
+          "text": "性",
+          "probability": 0.9961
+        },
+        {
+          "start": 92.11,
+          "end": 92.35,
+          "text": "約",
+          "probability": 0.9946
+        },
+        {
+          "start": 92.35,
+          "end": 92.63,
+          "text": "定。",
+          "probability": 0.9995
+        }
+      ],
+      "avg_logprob": -0.17598684537306167,
+      "no_speech_prob": 0.8291015625
+    },
+    {
+      "segment_id": "s00019",
+      "start": 94.04,
+      "end": 100.62,
+      "text": "這些房產全由送方自己打理,不得超越界限盲目擴張。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 94.04,
+          "end": 94.28,
+          "text": "這些",
+          "probability": 0.9922
+        },
+        {
+          "start": 94.28,
+          "end": 94.68,
+          "text": "房",
+          "probability": 0.998
+        },
+        {
+          "start": 94.68,
+          "end": 94.9,
+          "text": "產",
+          "probability": 0.998
+        },
+        {
+          "start": 94.9,
+          "end": 95.16,
+          "text": "全",
+          "probability": 0.9092
+        },
+        {
+          "start": 95.16,
+          "end": 95.44,
+          "text": "由",
+          "probability": 0.9873
+        },
+        {
+          "start": 95.44,
+          "end": 95.7,
+          "text": "送",
+          "probability": 0.9082
+        },
+        {
+          "start": 95.7,
+          "end": 95.9,
+          "text": "方",
+          "probability": 0.6396
+        },
+        {
+          "start": 95.9,
+          "end": 96.26,
+          "text": "自己",
+          "probability": 0.9697
+        },
+        {
+          "start": 96.26,
+          "end": 96.6,
+          "text": "打",
+          "probability": 0.895
+        },
+        {
+          "start": 96.6,
+          "end": 96.82,
+          "text": "理,",
+          "probability": 0.9873
+        },
+        {
+          "start": 97.98,
+          "end": 98.16,
+          "text": "不",
+          "probability": 0.981
+        },
+        {
+          "start": 98.16,
+          "end": 98.42,
+          "text": "得",
+          "probability": 0.9985
+        },
+        {
+          "start": 98.42,
+          "end": 98.72,
+          "text": "超",
+          "probability": 0.9922
+        },
+        {
+          "start": 98.72,
+          "end": 99.0,
+          "text": "越",
+          "probability": 0.9971
+        },
+        {
+          "start": 99.0,
+          "end": 99.28,
+          "text": "界",
+          "probability": 0.9419
+        },
+        {
+          "start": 99.28,
+          "end": 99.62,
+          "text": "限",
+          "probability": 0.7002
+        },
+        {
+          "start": 99.62,
+          "end": 99.9,
+          "text": "盲",
+          "probability": 0.8708
+        },
+        {
+          "start": 99.9,
+          "end": 100.12,
+          "text": "目",
+          "probability": 0.9976
+        },
+        {
+          "start": 100.12,
+          "end": 100.38,
+          "text": "擴",
+          "probability": 0.9976
+        },
+        {
+          "start": 100.38,
+          "end": 100.62,
+          "text": "張。",
+          "probability": 0.9971
+        }
+      ],
+      "avg_logprob": -0.17598684537306167,
+      "no_speech_prob": 0.8291015625
+    },
+    {
+      "segment_id": "s00020",
+      "start": 100.62,
+      "end": 107.16,
+      "text": "每月光租金收入便宜,远大于自己和子女的总开销。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 100.62,
+          "end": 101.36,
+          "text": "每",
+          "probability": 0.4287
+        },
+        {
+          "start": 102.18,
+          "end": 102.4,
+          "text": "月",
+          "probability": 0.9351
+        },
+        {
+          "start": 102.4,
+          "end": 102.64,
+          "text": "光",
+          "probability": 0.9448
+        },
+        {
+          "start": 102.64,
+          "end": 102.9,
+          "text": "租",
+          "probability": 0.9612
+        },
+        {
+          "start": 102.9,
+          "end": 103.12,
+          "text": "金",
+          "probability": 0.9961
+        },
+        {
+          "start": 103.12,
+          "end": 103.4,
+          "text": "收",
+          "probability": 0.9985
+        },
+        {
+          "start": 103.4,
+          "end": 103.62,
+          "text": "入",
+          "probability": 0.9966
+        },
+        {
+          "start": 103.62,
+          "end": 103.88,
+          "text": "便",
+          "probability": 0.9692
+        },
+        {
+          "start": 103.88,
+          "end": 104.22,
+          "text": "宜,",
+          "probability": 0.9912
+        },
+        {
+          "start": 104.5,
+          "end": 104.66,
+          "text": "远",
+          "probability": 0.9651
+        },
+        {
+          "start": 104.66,
+          "end": 104.9,
+          "text": "大",
+          "probability": 0.8892
+        },
+        {
+          "start": 104.9,
+          "end": 105.08,
+          "text": "于",
+          "probability": 0.9536
+        },
+        {
+          "start": 105.08,
+          "end": 105.38,
+          "text": "自己",
+          "probability": 0.9937
+        },
+        {
+          "start": 105.38,
+          "end": 105.74,
+          "text": "和",
+          "probability": 0.9907
+        },
+        {
+          "start": 105.74,
+          "end": 105.98,
+          "text": "子",
+          "probability": 0.9844
+        },
+        {
+          "start": 105.98,
+          "end": 106.18,
+          "text": "女",
+          "probability": 0.9995
+        },
+        {
+          "start": 106.18,
+          "end": 106.36,
+          "text": "的",
+          "probability": 0.9971
+        },
+        {
+          "start": 106.36,
+          "end": 106.6,
+          "text": "总",
+          "probability": 0.9307
+        },
+        {
+          "start": 106.6,
+          "end": 106.82,
+          "text": "开",
+          "probability": 0.9961
+        },
+        {
+          "start": 106.82,
+          "end": 107.16,
+          "text": "销。",
+          "probability": 0.7749
+        }
+      ],
+      "avg_logprob": -0.1534926505649791,
+      "no_speech_prob": 0.66455078125
+    },
+    {
+      "segment_id": "s00021",
+      "start": 108.26,
+      "end": 114.35,
+      "text": "目前挂牌的只有几宋土地,送风最近却有点烦恼。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 108.26,
+          "end": 108.72,
+          "text": "目前",
+          "probability": 0.9585
+        },
+        {
+          "start": 108.72,
+          "end": 109.06,
+          "text": "挂",
+          "probability": 0.9934
+        },
+        {
+          "start": 109.06,
+          "end": 109.36,
+          "text": "牌",
+          "probability": 0.9966
+        },
+        {
+          "start": 109.36,
+          "end": 109.54,
+          "text": "的",
+          "probability": 0.9795
+        },
+        {
+          "start": 109.54,
+          "end": 109.94,
+          "text": "只有",
+          "probability": 0.9219
+        },
+        {
+          "start": 109.94,
+          "end": 110.24,
+          "text": "几",
+          "probability": 0.9836
+        },
+        {
+          "start": 110.24,
+          "end": 110.52,
+          "text": "宋",
+          "probability": 0.7075
+        },
+        {
+          "start": 110.52,
+          "end": 110.74,
+          "text": "土",
+          "probability": 0.9404
+        },
+        {
+          "start": 110.74,
+          "end": 111.04,
+          "text": "地,",
+          "probability": 0.9995
+        },
+        {
+          "start": 112.25,
+          "end": 112.45,
+          "text": "送",
+          "probability": 0.5791
+        },
+        {
+          "start": 112.45,
+          "end": 112.67,
+          "text": "风",
+          "probability": 0.4915
+        },
+        {
+          "start": 112.67,
+          "end": 112.99,
+          "text": "最近",
+          "probability": 0.9092
+        },
+        {
+          "start": 112.99,
+          "end": 113.35,
+          "text": "却",
+          "probability": 0.9917
+        },
+        {
+          "start": 113.35,
+          "end": 113.59,
+          "text": "有",
+          "probability": 0.9795
+        },
+        {
+          "start": 113.59,
+          "end": 113.79,
+          "text": "点",
+          "probability": 0.9961
+        },
+        {
+          "start": 113.79,
+          "end": 114.05,
+          "text": "烦",
+          "probability": 0.9907
+        },
+        {
+          "start": 114.05,
+          "end": 114.35,
+          "text": "恼。",
+          "probability": 0.9946
+        }
+      ],
+      "avg_logprob": -0.1534926505649791,
+      "no_speech_prob": 0.66455078125
+    },
+    {
+      "segment_id": "s00022",
+      "start": 115.72,
+      "end": 122.16,
+      "text": "再加上近期一二线楼市升温,我想把房产留给儿女。",
+      "speaker_id": null,
+      "words": [
+        {
+          "start": 115.72,
+          "end": 115.9,
+          "text": "再",
+          "probability": 0.9619
+        },
+        {
+          "start": 115.9,
+          "end": 116.18,
+          "text": "加",
+          "probability": 0.9976
+        },
+        {
+          "start": 116.18,
+          "end": 116.5,
+          "text": "上",
+          "probability": 0.9961
+        },
+        {
+          "start": 116.5,
+          "end": 116.7,
+          "text": "近",
+          "probability": 0.9814
+        },
+        {
+          "start": 116.7,
+          "end": 117.0,
+          "text": "期",
+          "probability": 0.9922
+        },
+        {
+          "start": 117.0,
+          "end": 117.32,
+          "text": "一",
+          "probability": 0.7524
+        },
+        {
+          "start": 117.32,
+          "end": 117.52,
+          "text": "二",
+          "probability": 0.7627
+        },
+        {
+          "start": 117.52,
+          "end": 117.78,
+          "text": "线",
+          "probability": 0.8691
+        },
+        {
+          "start": 117.78,
+          "end": 118.08,
+          "text": "楼",
+          "probability": 0.7593
+        },
+        {
+          "start": 118.08,
+          "end": 118.32,
+          "text": "市",
+          "probability": 0.4382
+        },
+        {
+          "start": 118.32,
+          "end": 118.58,
+          "text": "升",
+          "probability": 0.8691
+        },
+        {
+          "start": 118.58,
+          "end": 118.82,
+          "text": "温,",
+          "probability": 0.9932
+        },
+        {
+          "start": 120.14,
+          "end": 120.4,
+          "text": "我想",
+          "probability": 0.98
+        },
+        {
+          "start": 120.4,
+          "end": 120.74,
+          "text": "把",
+          "probability": 0.9956
+        },
+        {
+          "start": 120.74,
+          "end": 120.98,
+          "text": "房",
+          "probability": 0.9932
+        },
+        {
+          "start": 120.98,
+          "end": 121.22,
+          "text": "产",
+          "probability": 0.9985
+        },
+        {
+          "start": 121.22,
+          "end": 121.42,
+          "text": "留",
+          "probability": 0.9893
+        },
+        {
+          "start": 121.42,
+          "end": 121.62,
+          "text": "给",
+          "probability": 0.998
+        },
+        {
+          "start": 121.62,
+          "end": 121.88,
+          "text": "儿",
+          "probability": 0.9897
+        },
+        {
+          "start": 121.88,
+          "end": 122.16,
+          "text": "女。",
+          "probability": 0.999
+        }
+      ],
+      "avg_logprob": -0.1534926505649791,
+      "no_speech_prob": 0.66455078125
+    }
+  ],
+  "source": "D:\\lab_demo\\zhuoyue\\data\\samples\\C.wav",
+  "mode": "offline",
+  "platform": "Windows-10-10.0.22631-SP0"
+}

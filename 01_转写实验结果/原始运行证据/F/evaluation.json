@@ -1,0 +1,2189 @@
+{
+  "speakers": {
+    "mapping": {
+      "SPEAKER_00": "003-F",
+      "SPEAKER_02": "006-M",
+      "SPEAKER_03": "002-F",
+      "SPEAKER_06": "005-M",
+      "SPEAKER_08": "007-M",
+      "SPEAKER_13": "004-M"
+    },
+    "counts": {
+      "speaker_confusion": 82,
+      "unknown_speaker": 57,
+      "reference_overlap_unresolved": 66,
+      "word_in_source_gap": 2,
+      "correct": 173
+    },
+    "nonoverlap_word_count": 312,
+    "speaker_error_fraction": 0.44551,
+    "scope": "word-midpoint diagnostic against AISHELL-4 corpus mirror speaker intervals; NOT DER",
+    "errors": [
+      {
+        "type": "speaker_confusion",
+        "start": 1.88,
+        "end": 2.16,
+        "text": "咱",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 2.16,
+        "end": 2.32,
+        "text": "还",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 2.32,
+        "end": 2.46,
+        "text": "能",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 2.46,
+        "end": 2.74,
+        "text": "找",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 2.74,
+        "end": 2.86,
+        "text": "个",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 2.86,
+        "end": 3.06,
+        "text": "什么",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 3.06,
+        "end": 3.28,
+        "text": "措",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 3.28,
+        "end": 3.54,
+        "text": "施",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 3.54,
+        "end": 4.32,
+        "text": "这个",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 4.37,
+        "end": 4.71,
+        "text": "挺",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 4.71,
+        "end": 4.91,
+        "text": "普",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 4.91,
+        "end": 5.07,
+        "text": "遍",
+        "predicted": "SPEAKER_01",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 5.07,
+        "end": 5.85,
+        "text": "咱",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 5.99,
+        "end": 6.09,
+        "text": "们",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 6.09,
+        "end": 6.23,
+        "text": "小",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 6.23,
+        "end": 6.23,
+        "text": "区",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 6.55,
+        "end": 6.69,
+        "text": " 其",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 6.69,
+        "end": 6.79,
+        "text": "他",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 6.79,
+        "end": 6.95,
+        "text": "小",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 6.95,
+        "end": 7.07,
+        "text": "区",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 7.07,
+        "end": 7.23,
+        "text": "也",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 7.23,
+        "end": 7.31,
+        "text": "有",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 7.31,
+        "end": 7.41,
+        "text": "其",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 7.41,
+        "end": 7.59,
+        "text": "他",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 7.59,
+        "end": 7.79,
+        "text": "小",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 7.79,
+        "end": 7.91,
+        "text": "区",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 7.91,
+        "end": 8.09,
+        "text": "也",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 8.09,
+        "end": 8.39,
+        "text": "有",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 8.39,
+        "end": 9.07,
+        "text": "其",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 9.07,
+        "end": 9.47,
+        "text": "他",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 9.47,
+        "end": 9.65,
+        "text": "小",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 9.65,
+        "end": 9.75,
+        "text": "区",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 9.75,
+        "end": 9.99,
+        "text": "怎么",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 9.99,
+        "end": 10.23,
+        "text": "做",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 10.23,
+        "end": 10.55,
+        "text": "啊",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "word_in_source_gap",
+        "start": 10.86,
+        "end": 11.38,
+        "text": "这个",
+        "predicted": "SPEAKER_02",
+        "reference_speakers": []
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 13.58,
+        "end": 14.12,
+        "text": "对",
+        "predicted": null,
+        "reference_speakers": [
+          "006-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 14.12,
+        "end": 14.54,
+        "text": "本",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 14.54,
+        "end": 14.78,
+        "text": "小",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 14.78,
+        "end": 14.86,
+        "text": "区",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 14.86,
+        "end": 15.54,
+        "text": "就是",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.54,
+        "end": 15.82,
+        "text": "本",
+        "predicted": "SPEAKER_04",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 15.82,
+        "end": 16.02,
+        "text": "小",
+        "predicted": "SPEAKER_04",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 16.02,
+        "end": 16.2,
+        "text": "区",
+        "predicted": "SPEAKER_04",
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 16.2,
+        "end": 16.38,
+        "text": "的",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 16.38,
+        "end": 16.92,
+        "text": "像",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 16.92,
+        "end": 18.5,
+        "text": "不是",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 20.32,
+        "end": 20.46,
+        "text": "这",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "006-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 20.46,
+        "end": 20.62,
+        "text": "种",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "006-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 20.62,
+        "end": 20.78,
+        "text": "事",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "006-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 22.18,
+        "end": 22.4,
+        "text": "还",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 22.4,
+        "end": 22.62,
+        "text": "真",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 22.62,
+        "end": 22.8,
+        "text": "非",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 22.8,
+        "end": 23.04,
+        "text": "办",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 23.04,
+        "end": 23.68,
+        "text": "了",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 23.95,
+        "end": 24.23,
+        "text": "就是",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 24.23,
+        "end": 25.07,
+        "text": "这",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.07,
+        "end": 25.23,
+        "text": "门",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.23,
+        "end": 25.37,
+        "text": "就",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.37,
+        "end": 25.53,
+        "text": "办",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.53,
+        "end": 25.61,
+        "text": "法",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.61,
+        "end": 25.95,
+        "text": "你说",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 25.95,
+        "end": 27.01,
+        "text": "都有",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 27.01,
+        "end": 27.25,
+        "text": "门",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 28.43,
+        "end": 28.79,
+        "text": "跟",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 28.79,
+        "end": 28.99,
+        "text": "着",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 29.53,
+        "end": 29.75,
+        "text": "门",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 29.75,
+        "end": 29.95,
+        "text": "的",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 29.95,
+        "end": 30.29,
+        "text": "信",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 30.29,
+        "end": 30.59,
+        "text": "来了",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 30.59,
+        "end": 31.27,
+        "text": "这个",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 32.95,
+        "end": 33.37,
+        "text": "咱",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 33.37,
+        "end": 33.61,
+        "text": "还是",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 33.61,
+        "end": 33.83,
+        "text": "有",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 33.83,
+        "end": 33.99,
+        "text": "门",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 33.99,
+        "end": 34.19,
+        "text": "位",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.19,
+        "end": 34.37,
+        "text": "呀,",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.43,
+        "end": 34.53,
+        "text": "咱",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.53,
+        "end": 34.67,
+        "text": "们",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.67,
+        "end": 34.79,
+        "text": "门",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.79,
+        "end": 34.91,
+        "text": "位",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 34.91,
+        "end": 35.09,
+        "text": "也",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 35.09,
+        "end": 35.27,
+        "text": "不是",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 35.27,
+        "end": 35.51,
+        "text": "在",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 35.51,
+        "end": 35.75,
+        "text": "吃",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 35.75,
+        "end": 35.93,
+        "text": "餐",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 35.93,
+        "end": 36.15,
+        "text": "饭",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 36.15,
+        "end": 36.31,
+        "text": "的",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 36.31,
+        "end": 36.47,
+        "text": "呀",
+        "predicted": "SPEAKER_07",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 36.47,
+        "end": 37.03,
+        "text": "看",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 37.03,
+        "end": 37.33,
+        "text": "咱",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 37.33,
+        "end": 37.47,
+        "text": "这",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 37.47,
+        "end": 37.63,
+        "text": "物",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 37.63,
+        "end": 37.77,
+        "text": "业",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 37.77,
+        "end": 37.91,
+        "text": "的",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 37.91,
+        "end": 38.19,
+        "text": "工作",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 38.19,
+        "end": 38.41,
+        "text": "也",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 38.41,
+        "end": 38.59,
+        "text": "不是",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 38.59,
+        "end": 38.83,
+        "text": "说",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 38.83,
+        "end": 39.09,
+        "text": "特",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 39.09,
+        "end": 39.29,
+        "text": "别",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 39.29,
+        "end": 39.57,
+        "text": "好",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 39.57,
+        "end": 39.77,
+        "text": "做",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 39.77,
+        "end": 40.05,
+        "text": "对",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 40.05,
+        "end": 40.39,
+        "text": "吧",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "003-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 40.39,
+        "end": 40.83,
+        "text": "真的,",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 41.35,
+        "end": 41.53,
+        "text": "都是",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 41.53,
+        "end": 41.73,
+        "text": "用",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 41.73,
+        "end": 41.99,
+        "text": "难",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "007-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 41.99,
+        "end": 42.19,
+        "text": "度",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "007-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 42.19,
+        "end": 42.57,
+        "text": "穿",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "007-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 47.39,
+        "end": 47.83,
+        "text": "但是",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 47.83,
+        "end": 48.27,
+        "text": "叶",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 48.27,
+        "end": 48.41,
+        "text": "主",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 48.41,
+        "end": 48.77,
+        "text": "就",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 48.77,
+        "end": 49.47,
+        "text": "这么",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 49.47,
+        "end": 49.79,
+        "text": "反",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 49.79,
+        "end": 49.93,
+        "text": "应",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 49.93,
+        "end": 50.07,
+        "text": "这",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 50.07,
+        "end": 50.31,
+        "text": "事",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 50.31,
+        "end": 50.57,
+        "text": "啊",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 50.57,
+        "end": 51.27,
+        "text": "反",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 51.27,
+        "end": 51.39,
+        "text": "正",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 51.39,
+        "end": 51.57,
+        "text": "咱",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 51.57,
+        "end": 51.69,
+        "text": "这",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 51.69,
+        "end": 51.93,
+        "text": "工作",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 51.93,
+        "end": 52.19,
+        "text": "也是",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 52.19,
+        "end": 52.45,
+        "text": "确",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 52.45,
+        "end": 52.59,
+        "text": "实",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 52.59,
+        "end": 52.75,
+        "text": "不好",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 52.75,
+        "end": 53.27,
+        "text": "做",
+        "predicted": "SPEAKER_00",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 66.88,
+        "end": 67.7,
+        "text": "确",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 69.06,
+        "end": 69.78,
+        "text": "实",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "002-F"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 69.78,
+        "end": 70.08,
+        "text": "执",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 70.08,
+        "end": 70.28,
+        "text": "行",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 70.28,
+        "end": 70.94,
+        "text": "你要",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 70.94,
+        "end": 71.48,
+        "text": "你",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 71.48,
+        "end": 71.64,
+        "text": "来",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 71.64,
+        "end": 71.86,
+        "text": "挑",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 71.86,
+        "end": 72.08,
+        "text": "大",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 72.08,
+        "end": 72.22,
+        "text": "挑",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 72.22,
+        "end": 72.46,
+        "text": "大",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 72.46,
+        "end": 72.78,
+        "text": "可以",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 72.78,
+        "end": 73.72,
+        "text": "能",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 74.15,
+        "end": 74.31,
+        "text": "给",
+        "predicted": "SPEAKER_11",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 74.31,
+        "end": 74.45,
+        "text": "你",
+        "predicted": "SPEAKER_11",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 74.45,
+        "end": 74.61,
+        "text": "紧",
+        "predicted": "SPEAKER_11",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 74.61,
+        "end": 74.83,
+        "text": "一",
+        "predicted": "SPEAKER_11",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 74.83,
+        "end": 74.97,
+        "text": "段",
+        "predicted": "SPEAKER_11",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "word_in_source_gap",
+        "start": 75.66,
+        "end": 76.46,
+        "text": "过",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": []
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 76.46,
+        "end": 76.7,
+        "text": "两",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 76.7,
+        "end": 76.86,
+        "text": "天",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 76.86,
+        "end": 77.06,
+        "text": "你",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 77.06,
+        "end": 77.26,
+        "text": "不",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 77.26,
+        "end": 77.42,
+        "text": "说",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 77.42,
+        "end": 77.64,
+        "text": "了",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 77.64,
+        "end": 77.96,
+        "text": "他",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 77.96,
+        "end": 78.12,
+        "text": "也",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.12,
+        "end": 78.34,
+        "text": "就",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.34,
+        "end": 78.54,
+        "text": "又",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.54,
+        "end": 78.76,
+        "text": "松",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.76,
+        "end": 78.94,
+        "text": "了",
+        "predicted": null,
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 78.94,
+        "end": 79.02,
+        "text": "就",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 79.02,
+        "end": 79.6,
+        "text": "长",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 79.6,
+        "end": 79.78,
+        "text": "点",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 79.78,
+        "end": 80.34,
+        "text": "反",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 82.0,
+        "end": 82.22,
+        "text": "功",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 82.22,
+        "end": 82.38,
+        "text": "课",
+        "predicted": "SPEAKER_03",
+        "reference_speakers": [
+          "002-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 85.56,
+        "end": 86.0,
+        "text": "我觉得",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 86.0,
+        "end": 86.4,
+        "text": "咱",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 86.4,
+        "end": 86.7,
+        "text": "也",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 86.7,
+        "end": 86.94,
+        "text": "应",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 86.94,
+        "end": 87.12,
+        "text": "该",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 87.12,
+        "end": 87.34,
+        "text": "从",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 87.34,
+        "end": 87.76,
+        "text": "讲",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 87.76,
+        "end": 88.02,
+        "text": "诚",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 88.02,
+        "end": 88.48,
+        "text": "上面",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 88.48,
+        "end": 88.88,
+        "text": "下",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 88.88,
+        "end": 89.04,
+        "text": "点",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.04,
+        "end": 89.2,
+        "text": "功",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 89.2,
+        "end": 89.7,
+        "text": "课",
+        "predicted": "SPEAKER_10",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 91.27,
+        "end": 91.57,
+        "text": "在",
+        "predicted": "SPEAKER_06",
+        "reference_speakers": [
+          "003-F",
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 91.67,
+        "end": 92.05,
+        "text": "儿",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 92.05,
+        "end": 92.21,
+        "text": "光",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 92.21,
+        "end": 92.49,
+        "text": "口",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 92.49,
+        "end": 92.67,
+        "text": "头",
+        "predicted": "SPEAKER_12",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 92.67,
+        "end": 92.89,
+        "text": "紧",
+        "predicted": "SPEAKER_12",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "speaker_confusion",
+        "start": 92.89,
+        "end": 93.13,
+        "text": "扣",
+        "predicted": "SPEAKER_12",
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 96.95,
+        "end": 97.39,
+        "text": "杀",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 97.39,
+        "end": 98.01,
+        "text": "一",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 98.01,
+        "end": 98.13,
+        "text": "戒",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M",
+          "005-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 98.13,
+        "end": 98.35,
+        "text": "红",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M",
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 98.35,
+        "end": 98.77,
+        "text": "瓦",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 98.77,
+        "end": 99.47,
+        "text": "咱",
+        "predicted": null,
+        "reference_speakers": [
+          "005-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 101.55,
+        "end": 101.63,
+        "text": "们",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 101.63,
+        "end": 102.47,
+        "text": "加",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 104.09,
+        "end": 104.21,
+        "text": "入",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 104.21,
+        "end": 104.35,
+        "text": "进",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 104.35,
+        "end": 104.65,
+        "text": "去",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 105.15,
+        "end": 105.51,
+        "text": "所以",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 110.05,
+        "end": 110.49,
+        "text": "有",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 110.49,
+        "end": 110.63,
+        "text": "这个",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 111.41,
+        "end": 111.89,
+        "text": "有",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 111.89,
+        "end": 112.07,
+        "text": "这个",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "unknown_speaker",
+        "start": 115.27,
+        "end": 115.39,
+        "text": "了",
+        "predicted": null,
+        "reference_speakers": [
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 115.39,
+        "end": 115.95,
+        "text": "这是",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      },
+      {
+        "type": "reference_overlap_unresolved",
+        "start": 115.95,
+        "end": 116.29,
+        "text": "一个",
+        "predicted": null,
+        "reference_speakers": [
+          "003-F",
+          "004-M"
+        ]
+      }
+    ],
+    "missing_turn_candidates": [
+      {
+        "start": 44.01189999999997,
+        "end": 46.68679999999995,
+        "speaker_id": "003-F",
+        "type": "source_turn_without_recognized_words"
+      },
+      {
+        "start": 53.35439999999994,
+        "end": 53.99429999999984,
+        "speaker_id": "003-F",
+        "type": "source_turn_without_recognized_words"
+      },
+      {
+        "start": 98.68170000000009,
+        "end": 99.0902000000001,
+        "speaker_id": "003-F",
+        "type": "source_turn_without_recognized_words"
+      },
+      {
+        "start": 101.64730000000009,
+        "end": 102.03610000000003,
+        "speaker_id": "003-F",
+        "type": "source_turn_without_recognized_words"
+      }
+    ],
+    "predicted_speakers": 12,
+    "reference_speakers": 6,
+    "predicted_speakers_scope": "distinct labels on recognized words; diarization may have additional tracks without recognized text"
+  },
+  "text": {
+    "cer": null,
+    "reason": "mirror has no text reference"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "passed": true,
+  "files_checked": 63,
+  "checks": [
+    {
+      "path": "models\\faster-whisper-small\\config.json",
+      "passed": true
+    },
+    {
+      "path": "models\\faster-whisper-small\\tokenizer.json",
+      "passed": true
+    },
+    {
+      "path": "models\\faster-whisper-small\\vocabulary.txt",
+      "passed": true
+    },
+    {
+      "path": "models\\faster-whisper-small\\model.bin",
+      "passed": true
+    },
+    {
+      "path": "models\\faster-whisper-small\\README.md",
+      "passed": true
+    },
+    {
+      "path": "models\\downloads\\segmentation.tar.bz2",
+      "passed": true
+    },
+    {
+      "path": "models\\speaker-embedding.onnx",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\four-speakers-zh.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\two-speakers-en.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0121.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0122.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0123.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0124.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0125.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0126.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0127.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0128.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0129.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0130.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0131.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0132.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0133.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0134.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0135.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0136.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0137.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0764W0138.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0121.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0122.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0123.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0124.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0125.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0126.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0127.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0128.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0129.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0130.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0131.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0132.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0133.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0134.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0135.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0136.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0137.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0765W0138.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0121.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0122.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0123.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0124.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0125.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0126.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0127.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0128.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0129.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0130.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0131.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0132.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0133.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0134.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0135.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0136.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0137.wav",
+      "passed": true
+    },
+    {
+      "path": "data\\raw\\aishell\\BAC009S0766W0138.wav",
+      "passed": true
+    }
+  ]
+}

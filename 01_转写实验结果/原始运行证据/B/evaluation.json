@@ -1,0 +1,115 @@
+{
+  "case": "B",
+  "reference_type": "original_corpus_transcripts",
+  "text": {
+    "cer": 0.08,
+    "reference_characters": 175,
+    "hypothesis_characters": 175,
+    "substitutions": 14,
+    "deletions": 0,
+    "insertions": 0,
+    "normalization": "NFKC; strip punctuation/symbols/whitespace; lowercase; digits not expanded",
+    "error_examples": [
+      {
+        "type": "substitution",
+        "reference_index": 25,
+        "hypothesis_index": 25,
+        "reference": "处于调整中但因为聚",
+        "hypothesis": "处于调整工但因为拒"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 29,
+        "hypothesis_index": 29,
+        "reference": "中但因为聚集了过多",
+        "hypothesis": "工但因为拒绝了过多"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 30,
+        "hypothesis_index": 30,
+        "reference": "但因为聚集了过多公",
+        "hypothesis": "但因为拒绝了过多公"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 36,
+        "hypothesis_index": 36,
+        "reference": "过多公共资源为了规",
+        "hypothesis": "过多公共私人为了规"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 37,
+        "hypothesis_index": 37,
+        "reference": "多公共资源为了规避",
+        "hypothesis": "多公共私人为了规避"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 58,
+        "hypothesis_index": 58,
+        "reference": "风险标杆房企必然调",
+        "hypothesis": "风险标杆防起必然调"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 59,
+        "hypothesis_index": 59,
+        "reference": "险标杆房企必然调整",
+        "hypothesis": "险标杆防起必然调整"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 117,
+        "hypothesis_index": 117,
+        "reference": "北京仅新增住宅土地",
+        "hypothesis": "北京仅新松柱宅土地"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 118,
+        "hypothesis_index": 118,
+        "reference": "京仅新增住宅土地供",
+        "hypothesis": "京仅新松柱宅土地供"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 124,
+        "hypothesis_index": 124,
+        "reference": "土地供应十宗开发边",
+        "hypothesis": "土地供应时松开发边"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 125,
+        "hypothesis_index": 125,
+        "reference": "地供应十宗开发边界",
+        "hypothesis": "地供应时松开发边界"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 147,
+        "hypothesis_index": 147,
+        "reference": "得超越界限盲目扩张",
+        "hypothesis": "得超越界线盲目扩张"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 159,
+        "hypothesis_index": 159,
+        "reference": "牌的只有几宗土地再",
+        "hypothesis": "牌的只有体松土地再"
+      },
+      {
+        "type": "substitution",
+        "reference_index": 160,
+        "hypothesis_index": 160,
+        "reference": "的只有几宗土地再加",
+        "hypothesis": "的只有体松土地再加"
+      }
+    ]
+  },
+  "timestamp_issues": [],
+  "timestamp_order_issues": []
+}

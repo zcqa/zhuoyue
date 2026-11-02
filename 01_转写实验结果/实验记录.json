@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-11-02T00:37:58.594161+08:00",
+  "hardware": {
+    "cpu": "Intel Core i9-13900HX, 24 physical/32 logical cores",
+    "ram_gb": 16,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU, 8 GB",
+    "platform": "Windows-10-10.0.22631-SP0"
+  },
+  "python": "3.11.9",
+  "versions": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.4.0",
+    "sherpa-onnx": "2.0.1",
+    "sounddevice": "0.5.6",
+    "onnxruntime": "1.31.1"
+  },
+  "results": [
+    {
+      "case": "A",
+      "scene": "real human AISHELL utterances concatenated with 0.3s gaps",
+      "duration_s": 63.6359,
+      "device": "cuda",
+      "model": "faster-whisper-small",
+      "asr_elapsed_s": 2.7799,
+      "rtf": 0.0437,
+      "pipeline_elapsed_s": 2.8521,
+      "cer": 0.05143,
+      "predicted_speakers": null,
+      "first_partial_p50_s": null,
+      "final_from_last_voice_p50_s": null
+    },
+    {
+      "case": "B",
+      "scene": "A + deterministic 10dB white noise and 100/300ms echoes",
+      "duration_s": 63.6359,
+      "device": "cuda",
+      "model": "faster-whisper-small",
+      "asr_elapsed_s": 1.6555,
+      "rtf": 0.026,
+      "pipeline_elapsed_s": 1.6938,
+      "cer": 0.08,
+      "predicted_speakers": null,
+      "first_partial_p50_s": null,
+      "final_from_last_voice_p50_s": null
+    },
+    {
+      "case": "C",
+      "scene": "real human AISHELL utterances concatenated with 0.3s gaps",
+      "duration_s": 123.581,
+      "device": "cuda",
+      "model": "faster-whisper-small",
+      "asr_elapsed_s": 3.3369,
+      "rtf": 0.027,
+      "pipeline_elapsed_s": 18.0265,
+      "cer": 0.14286,
+      "predicted_speakers": 2,
+      "first_partial_p50_s": null,
+      "final_from_last_voice_p50_s": null
+    },
+    {
+      "case": "D",
+      "scene": "real human AISHELL utterances concatenated with known overlaps",
+      "duration_s": 121.2501,
+      "device": "cuda",
+      "model": "faster-whisper-small",
+      "asr_elapsed_s": 5.2039,
+      "rtf": 0.0429,
+      "pipeline_elapsed_s": 19.1387,
+      "cer": null,
+      "predicted_speakers": 3,
+      "first_partial_p50_s": null,
+      "final_from_last_voice_p50_s": null
+    },
+    {
+      "case": "E",
+      "scene": "C replayed at wall-clock speed; not a microphone recording",
+      "duration_s": 123.581,
+      "device": "cuda",
+      "model": "faster-whisper-small",
+      "asr_elapsed_s": null,
+      "rtf": null,
+      "pipeline_elapsed_s": null,
+      "cer": 0.19429,
+      "predicted_speakers": null,
+      "first_partial_p50_s": 1.6924,
+      "final_from_last_voice_p50_s": 1.0514
+    }
+  ],
+  "natural_meeting_parameter_exploration": [
+    {
+      "case": "F",
+      "threshold": 0.8,
+      "known_count": -1,
+      "track_speakers": 15,
+      "word_label_speakers": 12,
+      "diagnostic_error_fraction": 0.44551,
+      "counts": {
+        "speaker_confusion": 82,
+        "unknown_speaker": 57,
+        "reference_overlap_unresolved": 66,
+        "word_in_source_gap": 2,
+        "correct": 173
+      },
+      "diarization_elapsed_s": 12.9028
+    },
+    {
+      "case": "F_t090",
+      "threshold": 0.9,
+      "known_count": -1,
+      "track_speakers": 9,
+      "word_label_speakers": 7,
+      "diagnostic_error_fraction": 0.31731,
+      "counts": {
+        "correct": 213,
+        "unknown_speaker": 55,
+        "reference_overlap_unresolved": 66,
+        "speaker_confusion": 44,
+        "word_in_source_gap": 2
+      },
+      "diarization_elapsed_s": 13.3705
+    },
+    {
+      "case": "F_t095",
+      "threshold": 0.95,
+      "known_count": -1,
+      "track_speakers": 8,
+      "word_label_speakers": 6,
+      "diagnostic_error_fraction": 0.21795,
+      "counts": {
+        "correct": 244,
+        "unknown_speaker": 53,
+        "reference_overlap_unresolved": 66,
+        "speaker_confusion": 15,
+        "word_in_source_gap": 2
+      },
+      "diarization_elapsed_s": 12.671
+    },
+    {
+      "case": "F_known6",
+      "threshold": 0.8,
+      "known_count": 6,
+      "track_speakers": 6,
+      "word_label_speakers": 5,
+      "diagnostic_error_fraction": 0.20833,
+      "counts": {
+        "correct": 247,
+        "unknown_speaker": 53,
+        "reference_overlap_unresolved": 66,
+        "speaker_confusion": 12,
+        "word_in_source_gap": 2
+      },
+      "diarization_elapsed_s": 12.9415
+    }
+  ],
+  "cloud": "implemented, local transport tests passed, real provider not called; API key empty",
+  "microphone": {
+    "mode": "microphone",
+    "duration_s": 2.9,
+    "wall_elapsed_s": 3.9922,
+    "engine": {
+      "engine": "faster-whisper",
+      "version": "1.2.1",
+      "model": "faster-whisper-small",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 8,
+      "ctranslate2_version": "4.4.0",
+      "load_elapsed_s": 1.2508
+    },
+    "partial_count": 0,
+    "final_count": 0,
+    "first_partial_latency": {
+      "count": 0,
+      "mean_s": null,
+      "p50_s": null,
+      "p95_s": null
+    },
+    "final_latency": {
+      "count": 0,
+      "mean_s": null,
+      "p50_s": null,
+      "p95_s": null
+    },
+    "revision_count": 0,
+    "text_change_count": 0,
+    "parameters": {
+      "interval_s": 1.5,
+      "silence_s": 0.8,
+      "max_window_s": 12,
+      "energy_threshold": 0.008
+    },
+    "latency_definition": "capture_to_result_s = event return minus most recent input frame enqueue time; includes inference and queue delay, excludes window accumulation. audio_start_to_result_s includes window accumulation. First partial summarized once per segment. Mic capture clock is callback arrival, not hardware ADC timestamp.",
+    "errors": [],
+    "anomalies": [],
+    "status": "completed"
+  }
+}

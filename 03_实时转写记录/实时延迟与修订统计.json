@@ -1,0 +1,53 @@
+{
+  "mode": "paced_file_replay",
+  "duration_s": 123.581,
+  "wall_elapsed_s": 123.6463,
+  "engine": {
+    "engine": "faster-whisper",
+    "version": "1.2.1",
+    "model": "faster-whisper-small",
+    "device": "cuda",
+    "compute_type": "float16",
+    "cpu_threads": 8,
+    "ctranslate2_version": "4.4.0",
+    "load_elapsed_s": 1.0959
+  },
+  "partial_count": 58,
+  "final_count": 26,
+  "first_partial_latency": {
+    "count": 25,
+    "mean_s": 0.1776,
+    "p50_s": 0.1317,
+    "p95_s": 0.2455
+  },
+  "final_latency": {
+    "count": 26,
+    "mean_s": 0.2378,
+    "p50_s": 0.1774,
+    "p95_s": 0.3465
+  },
+  "first_partial_from_audio_start": {
+    "count": 25,
+    "mean_s": 1.7176,
+    "p50_s": 1.6924,
+    "p95_s": 1.8455
+  },
+  "final_from_last_voice": {
+    "count": 26,
+    "mean_s": 1.0878,
+    "p50_s": 1.0514,
+    "p95_s": 1.1795
+  },
+  "revision_count": 25,
+  "text_change_count": 46,
+  "parameters": {
+    "interval_s": 1.5,
+    "silence_s": 0.8,
+    "max_window_s": 12,
+    "energy_threshold": 0.008
+  },
+  "latency_definition": "capture_to_result_s = event return minus most recent input frame enqueue time; includes inference and queue delay, excludes window accumulation. audio_start_to_result_s includes window accumulation. last_voice_to_result_s includes energy endpoint wait. First partial summarized once per segment. Mic capture clock is callback arrival, not hardware ADC timestamp.",
+  "errors": [],
+  "anomalies": [],
+  "status": "completed"
+}

@@ -1,0 +1,31 @@
+{
+  "json_files_valid": true,
+  "cases": [
+    {
+      "case": "A",
+      "timestamp_range_issues": 0,
+      "timestamp_order_issues": 0
+    },
+    {
+      "case": "B",
+      "timestamp_range_issues": 0,
+      "timestamp_order_issues": 0
+    },
+    {
+      "case": "C",
+      "timestamp_range_issues": 0,
+      "timestamp_order_issues": 0
+    },
+    {
+      "case": "D",
+      "timestamp_range_issues": 0,
+      "timestamp_order_issues": 0
+    },
+    {
+      "case": "E",
+      "timestamp_range_issues": 0,
+      "timestamp_order_issues": 0
+    }
+  ],
+  "launcher_offline_completed": true
+}

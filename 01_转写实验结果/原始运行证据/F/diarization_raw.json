@@ -1,0 +1,220 @@
+{
+  "tracks": [
+    {
+      "start": 1.853,
+      "end": 3.895,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 2.427,
+      "end": 2.849,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 4.064,
+      "end": 7.456,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 5.65,
+      "end": 9.599,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 8.587,
+      "end": 9.194,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 8.603,
+      "end": 15.218,
+      "speaker_id": "SPEAKER_02"
+    },
+    {
+      "start": 13.919,
+      "end": 15.303,
+      "speaker_id": "SPEAKER_03"
+    },
+    {
+      "start": 14.965,
+      "end": 17.581,
+      "speaker_id": "SPEAKER_04"
+    },
+    {
+      "start": 16.332,
+      "end": 30.845,
+      "speaker_id": "SPEAKER_03"
+    },
+    {
+      "start": 20.315,
+      "end": 20.737,
+      "speaker_id": "SPEAKER_04"
+    },
+    {
+      "start": 22.188,
+      "end": 23.335,
+      "speaker_id": "SPEAKER_05"
+    },
+    {
+      "start": 23.909,
+      "end": 26.035,
+      "speaker_id": "SPEAKER_05"
+    },
+    {
+      "start": 26.035,
+      "end": 26.727,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 29.63,
+      "end": 30.625,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 32.752,
+      "end": 37.392,
+      "speaker_id": "SPEAKER_07"
+    },
+    {
+      "start": 33.224,
+      "end": 33.933,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 36.464,
+      "end": 42.37,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 38.692,
+      "end": 40.193,
+      "speaker_id": "SPEAKER_07"
+    },
+    {
+      "start": 40.244,
+      "end": 49.407,
+      "speaker_id": "SPEAKER_08"
+    },
+    {
+      "start": 43.889,
+      "end": 54.25,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 46.657,
+      "end": 47.045,
+      "speaker_id": "SPEAKER_03"
+    },
+    {
+      "start": 49.407,
+      "end": 49.981,
+      "speaker_id": "SPEAKER_03"
+    },
+    {
+      "start": 49.981,
+      "end": 50.572,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 54.622,
+      "end": 67.058,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 67.058,
+      "end": 67.565,
+      "speaker_id": "SPEAKER_09"
+    },
+    {
+      "start": 68.712,
+      "end": 73.353,
+      "speaker_id": "SPEAKER_10"
+    },
+    {
+      "start": 73.741,
+      "end": 75.361,
+      "speaker_id": "SPEAKER_11"
+    },
+    {
+      "start": 76.019,
+      "end": 78.922,
+      "speaker_id": "SPEAKER_10"
+    },
+    {
+      "start": 77.757,
+      "end": 85.435,
+      "speaker_id": "SPEAKER_03"
+    },
+    {
+      "start": 85.503,
+      "end": 90.025,
+      "speaker_id": "SPEAKER_10"
+    },
+    {
+      "start": 90.953,
+      "end": 92.388,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 91.831,
+      "end": 93.856,
+      "speaker_id": "SPEAKER_12"
+    },
+    {
+      "start": 93.856,
+      "end": 99.307,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 96.91,
+      "end": 119.978,
+      "speaker_id": "SPEAKER_13"
+    },
+    {
+      "start": 101.585,
+      "end": 101.973,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 104.015,
+      "end": 105.5,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 104.588,
+      "end": 104.977,
+      "speaker_id": "SPEAKER_06"
+    },
+    {
+      "start": 110.123,
+      "end": 110.613,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 111.659,
+      "end": 112.03,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 115.321,
+      "end": 116.975,
+      "speaker_id": "SPEAKER_14"
+    },
+    {
+      "start": 116.975,
+      "end": 117.937,
+      "speaker_id": "SPEAKER_01"
+    }
+  ],
+  "elapsed_s": 12.9028,
+  "engine": {
+    "engine": "sherpa-onnx",
+    "version": "2.0.1",
+    "segmentation": "model.onnx",
+    "embedding": "speaker-embedding.onnx",
+    "num_speakers_hint": -1,
+    "cluster_threshold": 0.8,
+    "identity": "anonymous_relative_ids",
+    "mode": "offline"
+  }
+}

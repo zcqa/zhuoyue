@@ -1,0 +1,213 @@
+{
+  "case": "C",
+  "path": "data/samples/C.wav",
+  "duration_s": 123.581,
+  "speakers": [
+    "S0764",
+    "S0765"
+  ],
+  "constructed": true,
+  "construction": "real human AISHELL utterances concatenated with 0.3s gaps",
+  "reference_type": "original_corpus_transcripts",
+  "reference_turns": [
+    {
+      "start": 0.3,
+      "end": 4.5039,
+      "speaker_id": "S0764",
+      "text": "甚至出现交易几乎停滞的情况",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0121.wav"
+    },
+    {
+      "start": 4.8039,
+      "end": 7.896,
+      "speaker_id": "S0765",
+      "text": "一线城市出现日光盘",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0121.wav"
+    },
+    {
+      "start": 8.196,
+      "end": 12.311,
+      "speaker_id": "S0764",
+      "text": "一二线城市虽然也处于调整中",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0122.wav"
+    },
+    {
+      "start": 12.611,
+      "end": 17.8571,
+      "speaker_id": "S0765",
+      "text": "楼市地市交相升温房价会不会再度暴涨",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0122.wav"
+    },
+    {
+      "start": 18.1571,
+      "end": 22.1571,
+      "speaker_id": "S0764",
+      "text": "但因为聚集了过多公共资源",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0123.wav"
+    },
+    {
+      "start": 22.4571,
+      "end": 25.7591,
+      "speaker_id": "S0765",
+      "text": "经济热点导读专家认为",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0123.wav"
+    },
+    {
+      "start": 26.0591,
+      "end": 31.2961,
+      "speaker_id": "S0764",
+      "text": "为了规避三四线城市明显过剩的市场风险",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0124.wav"
+    },
+    {
+      "start": 31.5961,
+      "end": 37.3061,
+      "speaker_id": "S0765",
+      "text": "我国房地产市场过去总体偏紧部分地区过紧",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0124.wav"
+    },
+    {
+      "start": 37.6061,
+      "end": 41.9171,
+      "speaker_id": "S0764",
+      "text": "标杆房企必然调整市场战略",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0125.wav"
+    },
+    {
+      "start": 42.2171,
+      "end": 45.8861,
+      "speaker_id": "S0765",
+      "text": "为了将后辈的婚姻分险隔断",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0125.wav"
+    },
+    {
+      "start": 46.1861,
+      "end": 49.6861,
+      "speaker_id": "S0764",
+      "text": "因此土地储备至关重要",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0126.wav"
+    },
+    {
+      "start": 49.9861,
+      "end": 55.2941,
+      "speaker_id": "S0765",
+      "text": "将受益人定为直系血亲后代非配偶继承人",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0126.wav"
+    },
+    {
+      "start": 55.5941,
+      "end": 60.0471,
+      "speaker_id": "S0764",
+      "text": "中原地产首席分析师张大伟说",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0127.wav"
+    },
+    {
+      "start": 60.3471,
+      "end": 63.5091,
+      "speaker_id": "S0765",
+      "text": "按公司持有房产计征",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0127.wav"
+    },
+    {
+      "start": 63.8091,
+      "end": 67.3801,
+      "speaker_id": "S0764",
+      "text": "一线城市土地供应量减少",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0128.wav"
+    },
+    {
+      "start": 67.6801,
+      "end": 70.6671,
+      "speaker_id": "S0765",
+      "text": "相关公司股票走势",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0128.wav"
+    },
+    {
+      "start": 70.9671,
+      "end": 74.5621,
+      "speaker_id": "S0764",
+      "text": "也助推了土地市场的火爆",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0129.wav"
+    },
+    {
+      "start": 74.8621,
+      "end": 79.0041,
+      "speaker_id": "S0765",
+      "text": "房价起飞前购置了十几套房产",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0129.wav"
+    },
+    {
+      "start": 79.3041,
+      "end": 84.5521,
+      "speaker_id": "S0764",
+      "text": "北京仅新增住宅土地供应十宗",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0130.wav"
+    },
+    {
+      "start": 84.8521,
+      "end": 87.987,
+      "speaker_id": "S0765",
+      "text": "目前总估值已过亿元",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0130.wav"
+    },
+    {
+      "start": 88.287,
+      "end": 93.287,
+      "speaker_id": "S0764",
+      "text": "开发边界将作为城市发展的刚性约定",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0131.wav"
+    },
+    {
+      "start": 93.587,
+      "end": 97.2919,
+      "speaker_id": "S0765",
+      "text": "这些房产全由宋芳自己打理",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0131.wav"
+    },
+    {
+      "start": 97.5919,
+      "end": 101.2499,
+      "speaker_id": "S0764",
+      "text": "不得超越界限盲目扩张",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0132.wav"
+    },
+    {
+      "start": 101.5499,
+      "end": 107.689,
+      "speaker_id": "S0765",
+      "text": "每月光租金收入便已远大于自己和子女的总开销",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0132.wav"
+    },
+    {
+      "start": 107.989,
+      "end": 111.546,
+      "speaker_id": "S0764",
+      "text": "目前挂牌的只有几宗土地",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0133.wav"
+    },
+    {
+      "start": 111.846,
+      "end": 114.911,
+      "speaker_id": "S0765",
+      "text": "宋芳最近却有点烦恼",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0133.wav"
+    },
+    {
+      "start": 115.211,
+      "end": 119.398,
+      "speaker_id": "S0764",
+      "text": "再加上近期一二线楼市升温",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0134.wav"
+    },
+    {
+      "start": 119.698,
+      "end": 122.781,
+      "speaker_id": "S0765",
+      "text": "我想把房产留给儿女",
+      "source_clip": "data\\raw\\aishell\\BAC009S0765W0134.wav"
+    }
+  ],
+  "reference_text": "甚至出现交易几乎停滞的情况一线城市出现日光盘一二线城市虽然也处于调整中楼市地市交相升温房价会不会再度暴涨但因为聚集了过多公共资源经济热点导读专家认为为了规避三四线城市明显过剩的市场风险我国房地产市场过去总体偏紧部分地区过紧标杆房企必然调整市场战略为了将后辈的婚姻分险隔断因此土地储备至关重要将受益人定为直系血亲后代非配偶继承人中原地产首席分析师张大伟说按公司持有房产计征一线城市土地供应量减少相关公司股票走势也助推了土地市场的火爆房价起飞前购置了十几套房产北京仅新增住宅土地供应十宗目前总估值已过亿元开发边界将作为城市发展的刚性约定这些房产全由宋芳自己打理不得超越界限盲目扩张每月光租金收入便已远大于自己和子女的总开销目前挂牌的只有几宗土地宋芳最近却有点烦恼再加上近期一二线楼市升温我想把房产留给儿女",
+  "cer_applicable": true,
+  "speaker_reference_note": "clip-level construction bounds include source leading/trailing silence; not frame-level human speech annotation"
+}

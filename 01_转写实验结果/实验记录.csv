@@ -1,0 +1,6 @@
+﻿case,scene,duration_s,device,model,asr_elapsed_s,rtf,pipeline_elapsed_s,cer,predicted_speakers,first_partial_p50_s,final_from_last_voice_p50_s
+A,real human AISHELL utterances concatenated with 0.3s gaps,63.6359,cuda,faster-whisper-small,2.7799,0.0437,2.8521,0.05143,,,
+B,A + deterministic 10dB white noise and 100/300ms echoes,63.6359,cuda,faster-whisper-small,1.6555,0.026,1.6938,0.08,,,
+C,real human AISHELL utterances concatenated with 0.3s gaps,123.581,cuda,faster-whisper-small,3.3369,0.027,18.0265,0.14286,2,,
+D,real human AISHELL utterances concatenated with known overlaps,121.2501,cuda,faster-whisper-small,5.2039,0.0429,19.1387,,3,,
+E,C replayed at wall-clock speed; not a microphone recording,123.581,cuda,faster-whisper-small,,,,0.19429,,1.6924,1.0514

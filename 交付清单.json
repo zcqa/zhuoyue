@@ -1,0 +1,550 @@
+{
+  "file_count_excluding_manifest": 109,
+  "files": [
+    {
+      "path": "01_转写实验结果/原始运行证据/A/asr_raw.json",
+      "bytes": 27160,
+      "sha256": "a5b70d152be23aad939f39f68462a8a07b58bbffafc8317ab3bf0f9547714449"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A/evaluation.json",
+      "bytes": 2456,
+      "sha256": "d51584d7feaa5ceb4c015fe32886a69b026847d6633537f64328119ccd05a70d"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A/result.json",
+      "bytes": 27373,
+      "sha256": "14dfc8f48cffa1e43a5ba1d3d8a6c2f446fce8378af6b552c285db4717403b7b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A/transcript.srt",
+      "bytes": 1203,
+      "sha256": "8bc499ba1e625346b5a72e55407aa2c3e86a8d6992bbdbf2e16f4bef26c4064a"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A/transcript.txt",
+      "bytes": 913,
+      "sha256": "faac0017aa25a6b495bfebda86d6894f5f621cbbad4d09b86efb306b87a0dcfb"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A_cpu/asr_raw.json",
+      "bytes": 27254,
+      "sha256": "15555c63dac24984662f8669eab0ec296fd2a79bced4aa8070290bcb37f88edd"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A_cpu/evaluation.json",
+      "bytes": 2456,
+      "sha256": "d51584d7feaa5ceb4c015fe32886a69b026847d6633537f64328119ccd05a70d"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A_cpu/result.json",
+      "bytes": 27467,
+      "sha256": "fcdc5c85a0ad00a5bef2af40453d04a7e41e9bde7bb68aa77e0b8f7a87165454"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A_cpu/transcript.srt",
+      "bytes": 1200,
+      "sha256": "88e2ce714e7cb5252438302c4ea66ecca5d2cb3a933f6c62de4a225c2c54fb3e"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/A_cpu/transcript.txt",
+      "bytes": 910,
+      "sha256": "3b37adb653962a6831ef22bcad09b51447b5b4f51ba83ca432cf011527725b35"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/B/asr_raw.json",
+      "bytes": 27118,
+      "sha256": "6702dc85bd4835f243e1840953c31cefbf96d2f11f85f77dd9b0fcb7ac59828e"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/B/evaluation.json",
+      "bytes": 3573,
+      "sha256": "6a33c5a2cd71b53c2a6915f5367c70fbaecd9440429b4df8f27b88faa72813df"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/B/result.json",
+      "bytes": 27331,
+      "sha256": "e8ca401bed7527f2c428964925f008fecf7ac7137dc688882d4eb4219b6640ed"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/B/transcript.srt",
+      "bytes": 1203,
+      "sha256": "ed9c82c0ee58dd6acc8bea316839250feeb137f52e11275960545ffdf52cfbaf"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/B/transcript.txt",
+      "bytes": 913,
+      "sha256": "94ff0b6d009eb25a998712d558b70d7b1b11da4929bc1d2936008fa061e3072d"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/asr_raw.json",
+      "bytes": 51709,
+      "sha256": "e684c6c3da95749b42c0b2c0b3bfdf0a72f0b9f74ba286cca92dd893cb95378a"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/diarization_raw.json",
+      "bytes": 3363,
+      "sha256": "e6d2fd5c30ba3c9e1c7e6023b2abf79e6cdf3c7d6332470b2c0198216a041cb0"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/evaluation.json",
+      "bytes": 18094,
+      "sha256": "fbf31c5279d4b3e4ad97cbe07a7c78ca8606437b950400f63b84cb54055a3ca8"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/result.json",
+      "bytes": 81711,
+      "sha256": "11496693c80bc428cc6e62a6c34e25908e541de4b94985558c2e77dc55cbcad5"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/transcript.srt",
+      "bytes": 3156,
+      "sha256": "d06a2427f87f0119a53526382439fc070aecd998bf8f5e98c929247f9e94e260"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/C/transcript.txt",
+      "bytes": 2308,
+      "sha256": "7d11ef83376bb1fa6a6c26fe1f51a341609f5e15c0f86a6868a4678b6173f17f"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/asr_raw.json",
+      "bytes": 59090,
+      "sha256": "0709366a559979289e0814dfd68f4f7d78b24fee0c3b85c64c20d03ed7e3edc9"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/diarization_raw.json",
+      "bytes": 3741,
+      "sha256": "e6f3b9b3697ee68b7d1c9b09bdb5ec0df3da93477c7746b2ad4a156b1e1cde3e"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/evaluation.json",
+      "bytes": 34866,
+      "sha256": "630d52c330a171d46a72ff685a3fc6d138df7fcc67f4d1a6cc1ac20ba8c413f4"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/result.json",
+      "bytes": 100264,
+      "sha256": "679bd27748baf90a58ce6a425ec62fd490ab8ca637135c717b7cb49d3eb75b1b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/transcript.srt",
+      "bytes": 4366,
+      "sha256": "dbd811acb4720756b2065c02bfe09759cbd2276d577127485471c0bcf961b09b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/D/transcript.txt",
+      "bytes": 3037,
+      "sha256": "4cb1f7a9ae628cf35000b9f3594e2bf546818831d2b97a70538902a8e204340b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/asr_raw.json",
+      "bytes": 64670,
+      "sha256": "20f36acd4b71fd8d6b47d1a12a3319f39cbc017fbb7926ba22e23440f6244856"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/diarization_raw.json",
+      "bytes": 4221,
+      "sha256": "2afe3a462cb76a2b5a88c65d56c5a75c27f341128ba8609d4030814ced917557"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/evaluation.json",
+      "bytes": 49904,
+      "sha256": "67fae32e2c30fada061a9c637787ac3a27ae56d9b1d5f3a9aa64e1b2cd5ce73b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/result.json",
+      "bytes": 110648,
+      "sha256": "d38c0f9357b37888742bda6dd5b2b926f875fd568ee65256a49256df087ad3db"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/transcript.srt",
+      "bytes": 5270,
+      "sha256": "01c7b66aec82225b85e444dff4fadba4239302e472b2d78ab0d50a6472029ba3"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F/transcript.txt",
+      "bytes": 3653,
+      "sha256": "6b9087ce4eb27a6d83b16f11922702fa876e0d6a195a26d842b58a69896d272b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_known6/diarization_raw.json",
+      "bytes": 4027,
+      "sha256": "cfd87073d620f8a689d0b5ac4bd69a645a4147681277e3a96f6ee1209b1b5951"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_known6/evaluation.json",
+      "bytes": 33039,
+      "sha256": "cc87a922b714a6fa2dc48a46f4e8edd1259d7ab7dfc13655f9f4a6568ad7e7d3"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_known6/result.json",
+      "bytes": 110199,
+      "sha256": "7dc52d53397a6fcc3acde10f6438b5085f586724aa1b2ff6709bf9fbffde1dd8"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_known6/transcript.srt",
+      "bytes": 5325,
+      "sha256": "4ecdf49881bdbc08e2845f8c2eda06da88f21a3062065d5bd3ccc780722d050f"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_known6/transcript.txt",
+      "bytes": 3687,
+      "sha256": "8c439993f50f64bcb6f070aafed443dd8770dbcc5b97d3a662c7b5f09cb97e0b"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t090/diarization_raw.json",
+      "bytes": 4124,
+      "sha256": "1ea008e6c2477beeaaad82552b5cee5799de16df6a19de11b0b6af9d29fa45bc"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t090/evaluation.json",
+      "bytes": 40798,
+      "sha256": "2fc78f79ed312977710bf5347893048f9d7969dc82c43f4410a3b257c0c8f0f0"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t090/result.json",
+      "bytes": 110754,
+      "sha256": "4a8691fb6a2729c620c909013a2da0a2b684f7addd13238d862046ef842f8a4a"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t090/transcript.srt",
+      "bytes": 5374,
+      "sha256": "df3024aa7d1669b9ef403d0f8cf759fe46c8ca081e82eb51f50d8b5cae79ffb4"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t090/transcript.txt",
+      "bytes": 3715,
+      "sha256": "50f6e6a87a8baeab7a8870a113e1f14789c3942948df260d4862e31e37ffee2d"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t095/diarization_raw.json",
+      "bytes": 4028,
+      "sha256": "c44f6cb8b62553ff088f7e4018451768e4c96a40a204ced50f855856891a9b3c"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t095/evaluation.json",
+      "bytes": 33744,
+      "sha256": "26d4b711f4f50f57279af282e0dc683a89e85009b13d7bcd9592d8ce2f7a7c7c"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t095/result.json",
+      "bytes": 110516,
+      "sha256": "6557949f73591bca323e49940e1bec5915fb9d4c56dbd3f70ba72e57babf70e8"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t095/transcript.srt",
+      "bytes": 5374,
+      "sha256": "1ca3fda9a2b2ca268b14d53a722d4e6e8367f3308ae3f65ce382b33a2c946006"
+    },
+    {
+      "path": "01_转写实验结果/原始运行证据/F_t095/transcript.txt",
+      "bytes": 3715,
+      "sha256": "6f55988f4bc25c238c74ddf1b54afdc279b381e884f1c97c87b1e4acedc90397"
+    },
+    {
+      "path": "01_转写实验结果/实验报告.md",
+      "bytes": 5999,
+      "sha256": "948c8738fe9cac2a0d249cf84c8fabc749c7f1c9973be3505abf5448ba6d9d1c"
+    },
+    {
+      "path": "01_转写实验结果/实验记录.csv",
+      "bytes": 773,
+      "sha256": "ec71bf0080061275d091fd6c7e5cf0a305d654cf5d155ac4cf8553b4f567f633"
+    },
+    {
+      "path": "01_转写实验结果/实验记录.json",
+      "bytes": 5813,
+      "sha256": "70c012e0740ccad571b70d54a27cafcf6f27c730054e78ea98ff8a4b9a425cfb"
+    },
+    {
+      "path": "01_转写实验结果/错误记录.json",
+      "bytes": 289147,
+      "sha256": "9ecb65cb2b017d60c8edae49c48338bbd34502586667fd0585eb972a8a4c58a0"
+    },
+    {
+      "path": "02_带时间和说话人标记的样例/02_原始说话人输出.json",
+      "bytes": 3363,
+      "sha256": "e6d2fd5c30ba3c9e1c7e6023b2abf79e6cdf3c7d6332470b2c0198216a041cb0"
+    },
+    {
+      "path": "02_带时间和说话人标记的样例/02_原始转写输出.json",
+      "bytes": 51709,
+      "sha256": "e684c6c3da95749b42c0b2c0b3bfdf0a72f0b9f74ba286cca92dd893cb95378a"
+    },
+    {
+      "path": "02_带时间和说话人标记的样例/02_真实转写样例.json",
+      "bytes": 81711,
+      "sha256": "11496693c80bc428cc6e62a6c34e25908e541de4b94985558c2e77dc55cbcad5"
+    },
+    {
+      "path": "02_带时间和说话人标记的样例/可直接阅读的文字样例.txt",
+      "bytes": 2308,
+      "sha256": "7d11ef83376bb1fa6a6c26fe1f51a341609f5e15c0f86a6868a4678b6173f17f"
+    },
+    {
+      "path": "02_带时间和说话人标记的样例/带时间和说话人的字幕.srt",
+      "bytes": 3156,
+      "sha256": "d06a2427f87f0119a53526382439fc070aecd998bf8f5e98c929247f9e94e260"
+    },
+    {
+      "path": "03_实时转写记录/06_实时文字变化说明.md",
+      "bytes": 2052,
+      "sha256": "453840a3f64e975f39d7f1642c01920fcc0a6c8e0c6f53720138e0b4521e3937"
+    },
+    {
+      "path": "03_实时转写记录/06_实时文字更新记录.jsonl",
+      "bytes": 103401,
+      "sha256": "a066687acab34049d972245de2cc4ea0d8d9be9edb6de1e766c3357f91889e1e"
+    },
+    {
+      "path": "03_实时转写记录/实时延迟与修订统计.json",
+      "bytes": 1516,
+      "sha256": "76dfbf6a665c7ec9953eda461501109728defe4bd89392c130748155dfd412e2"
+    },
+    {
+      "path": "03_实时转写记录/最终文字.txt",
+      "bytes": 1782,
+      "sha256": "d08025073a4084fe9ecab9dcd0a1fd6d0777f349ddacf5283ab694825317cfb8"
+    },
+    {
+      "path": "04_推荐方案及限制/推荐方案及限制说明.md",
+      "bytes": 19871,
+      "sha256": "b9926b8ecce4bc8a5620415e9494f9ae349a940a4dcb540abaf2dbbd43c344b5"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 4909,
+      "sha256": "24cf3795e4c2bdb37ac00aee17a8a650a292923b40bbad3416b9080a503f4fad"
+    },
+    {
+      "path": "交付说明_先读.md",
+      "bytes": 2305,
+      "sha256": "4c08b0d699527d2c4166ec80488c74133532ce47a248677b5dd873a6b47c695f"
+    },
+    {
+      "path": "附录_复现资料/来源清单/asset_manifest.json",
+      "bytes": 2815,
+      "sha256": "e3b99053afc6465f6f1d953e302cab77c33bcc78c995ae96a79d0e112ce6ed90"
+    },
+    {
+      "path": "附录_复现资料/来源清单/corpus_manifest.json",
+      "bytes": 27505,
+      "sha256": "10f3a22c06f960b0cba8bee6ede9882f867121430ac96715d5f85d391e43d9cd"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/A.reference.json",
+      "bytes": 4017,
+      "sha256": "d540afc4f239a1f530daa09220c861bf2f585c9e633c01293ddb06a1c694d820"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/A.wav",
+      "bytes": 2036392,
+      "sha256": "06098de03d2eeb4b6a819de9e97d3f2e62b6d55ecf48929c5b58a115ba156d40"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/B.reference.json",
+      "bytes": 4042,
+      "sha256": "4662a244cff1a5dec2efc599ec177165d987edf06ab4e1ffa92b4902702b0758"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/B.wav",
+      "bytes": 2036392,
+      "sha256": "544f0bda1b9aad967833b082d2109e4c117bf8409d5895e2da1cd8e816ef4db2"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/C.reference.json",
+      "bytes": 7551,
+      "sha256": "2df4b608f4dd0c39a4d16980721c7fb2f79b24bfac655f34a1cbcb8b1b25956a"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/C.wav",
+      "bytes": 3954636,
+      "sha256": "93538171ffe1beb4f1e01727cf3c8e1da00234f9b2cac351e05dff746180ff2c"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/cases.json",
+      "bytes": 33283,
+      "sha256": "3a654046ac1e7b833d0abd9dfc63a2f9a7fc47e993ece3d63ea5100ab4fa3eba"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/D.reference.json",
+      "bytes": 8323,
+      "sha256": "cd0a53a0224e542e0354d2bd122ca5a223edf1988f9d94ac44ba9b71cf3f179f"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/D.wav",
+      "bytes": 3880048,
+      "sha256": "95ffbe078c8fdae66c6df59c25d996509ad4956bcc09123dc84441fd74441aad"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/E.reference.json",
+      "bytes": 7552,
+      "sha256": "518e3b5f734a7b813a0bb81218342f2ce99bd0e2db52005c5327cc424c6170d0"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/E.wav",
+      "bytes": 3954636,
+      "sha256": "93538171ffe1beb4f1e01727cf3c8e1da00234f9b2cac351e05dff746180ff2c"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/F_natural_meeting.reference.json",
+      "bytes": 6019,
+      "sha256": "3fc3d932adc4c85f3e5e1bee07631f1523aa804bde3800ee82cdbff5f7cd332d"
+    },
+    {
+      "path": "附录_复现资料/测试录音及参考/F_natural_meeting.wav",
+      "bytes": 3840044,
+      "sha256": "a1c07227b77b93175ee82df046f73ebfc242a23e30d5e52a4a0b0dd4fd0ba827"
+    },
+    {
+      "path": "附录_复现资料/项目源码/.env.example",
+      "bytes": 93,
+      "sha256": "1df303189b66c62f865f58e8cc9aaf2f0237b3711eb1247494e0474adf473ff1"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/__init__.py",
+      "bytes": 405,
+      "sha256": "9c4a2ca076912eeec80cbae21f89f9b8fd32f89931251d88f745195655d90b1f"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/__main__.py",
+      "bytes": 4299,
+      "sha256": "1e84bf4a801076c42e26407674f050f203c9d5644e30b2e798aea9598fc398f2"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/asr.py",
+      "bytes": 3366,
+      "sha256": "6d0d72e9013ec816f0e01d9a4d689e2e4add566fb647c3b1470fc072561c8568"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/audio.py",
+      "bytes": 875,
+      "sha256": "5f6f931a97303cc0c072d2b6949a75635b312011918ff454da246f5fe66f8d64"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/cloud.py",
+      "bytes": 10797,
+      "sha256": "7ab2d8ee6b22bcb677869452bd29ed0c212b24437e1625c2289675a9e90fb465"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/diarization.py",
+      "bytes": 4878,
+      "sha256": "171a163c8bcab369ca3c9bfd51c8cf1100a239043d87ee51466848d9ff5fa7f2"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/evaluation.py",
+      "bytes": 5874,
+      "sha256": "c646e82bf4688984d9d49b0d0045c3b3c64f4eaf8c182695477bdac86e03b210"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/offline.py",
+      "bytes": 1261,
+      "sha256": "4e66a3584787f93998c72a0475fcc852ea2c9d3b379d40a2e9835a6e8f8eb0e9"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/output.py",
+      "bytes": 1416,
+      "sha256": "b0e7a5fd3a25071b9e1a7db25b3a71230312142ae4f579db5912e47ff06c49e1"
+    },
+    {
+      "path": "附录_复现资料/项目源码/meeting_asr/realtime.py",
+      "bytes": 13053,
+      "sha256": "1a56b0b449cf0ccd02165ea265f2aa73d8102d076a7cfa325b85b7bc92e556d5"
+    },
+    {
+      "path": "附录_复现资料/项目源码/README.md",
+      "bytes": 8468,
+      "sha256": "6a65b9497e0d9ebada22652e1cb425bb6f147716e15e657fa800cdf153d4ca63"
+    },
+    {
+      "path": "附录_复现资料/项目源码/requirements.lock.txt",
+      "bytes": 758,
+      "sha256": "60b1c0033598848561fa01436e2bb7b30982732c16ceb2d12fafd370b603ae02"
+    },
+    {
+      "path": "附录_复现资料/项目源码/requirements.txt",
+      "bytes": 208,
+      "sha256": "db64f87c3fe88d53a11268dde7a486bb18e870c6011cbaa3447ede279d81d642"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/build_report.py",
+      "bytes": 15347,
+      "sha256": "23db0299fb03d8c2f4f2a26974d5463461538260e89cb76b0b1095edc384e429"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/collect_natural_meeting.py",
+      "bytes": 3848,
+      "sha256": "1bfd2c01064b216127f63526f845ae64ec5d2c52116ce69f62a59e8a74424411"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/collect_samples.py",
+      "bytes": 7659,
+      "sha256": "66e98af64aa734bd204867e3d2e762b524743572b6eca5e1e4ed649d9185ad7d"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/package_deliverables.py",
+      "bytes": 9044,
+      "sha256": "c29e2667e8ca6a354472b77be3d5dfd8416174ff8a07b6ed808741edd3557f30"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/prepare_assets.py",
+      "bytes": 4954,
+      "sha256": "4f08f4ae0fdf1587afff2cdcc9fcf115d29864f4fbd32b54e3d5b1c2d6c72c09"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/run_experiments.py",
+      "bytes": 3757,
+      "sha256": "f39839f5b747d22c3065080a2761b850ee644b918dfd5a97bca07e3b63ecd660"
+    },
+    {
+      "path": "附录_复现资料/项目源码/scripts/tune_speakers.py",
+      "bytes": 2325,
+      "sha256": "cae814177f8288923c936b7b4aca7589d05d5f1666f9494168e8ad7164076a51"
+    },
+    {
+      "path": "附录_复现资料/项目源码/setup.ps1",
+      "bytes": 1074,
+      "sha256": "706b315dba9b84ae5a23a37d268f671bfaee258439937fdcc3b0060a090925e3"
+    },
+    {
+      "path": "附录_复现资料/项目源码/SOURCES.md",
+      "bytes": 4909,
+      "sha256": "24cf3795e4c2bdb37ac00aee17a8a650a292923b40bbad3416b9080a503f4fad"
+    },
+    {
+      "path": "附录_复现资料/项目源码/start.ps1",
+      "bytes": 1571,
+      "sha256": "9e210b6a00565f88ecb780373c6324842b96aadde2aede6e59abd7a7a122955c"
+    },
+    {
+      "path": "附录_复现资料/项目源码/tests/test_cloud_transport.py",
+      "bytes": 3616,
+      "sha256": "3e2b51e905892c4c679db99c249b4035ee22fba4c779962f386fcfcff1213193"
+    },
+    {
+      "path": "附录_复现资料/项目源码/tests/test_core.py",
+      "bytes": 7259,
+      "sha256": "74b7d1bb7a6b9133a79a964fe0e539ccbf6159e344ed6c393d975537a7f7e32a"
+    },
+    {
+      "path": "附录_复现资料/验证记录/asset_integrity.json",
+      "bytes": 6091,
+      "sha256": "b707ca365c0b50816ae7bab18f5d9b427fd1a11b0d722070985797227761143b"
+    },
+    {
+      "path": "附录_复现资料/验证记录/deliverable_check.json",
+      "bytes": 620,
+      "sha256": "7e0591589cc284417637b9807208e119f040eb63241006ae22330e3e2f51ffcb"
+    },
+    {
+      "path": "附录_复现资料/验证记录/offline_network_blocked.json",
+      "bytes": 6174,
+      "sha256": "5f64007eda0774d7faad4d55cfb83d0aec02df6710833fdfdeb24141b8c5dc43"
+    },
+    {
+      "path": "附录_复现资料/验证记录/tests.xml",
+      "bytes": 2039,
+      "sha256": "350b6dec5a8f9c9ac65918b5a2b9fe937098aa116673f0dba084928c2d9469fc"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "case": "A",
+  "path": "data/samples/A.wav",
+  "duration_s": 63.635875,
+  "speakers": [
+    "S0764"
+  ],
+  "constructed": true,
+  "construction": "real human AISHELL utterances concatenated with 0.3s gaps",
+  "reference_type": "original_corpus_transcripts",
+  "reference_turns": [
+    {
+      "start": 0.3,
+      "end": 4.5039,
+      "speaker_id": "S0764",
+      "text": "甚至出现交易几乎停滞的情况",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0121.wav"
+    },
+    {
+      "start": 4.8039,
+      "end": 8.9189,
+      "speaker_id": "S0764",
+      "text": "一二线城市虽然也处于调整中",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0122.wav"
+    },
+    {
+      "start": 9.2189,
+      "end": 13.2189,
+      "speaker_id": "S0764",
+      "text": "但因为聚集了过多公共资源",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0123.wav"
+    },
+    {
+      "start": 13.5189,
+      "end": 18.7559,
+      "speaker_id": "S0764",
+      "text": "为了规避三四线城市明显过剩的市场风险",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0124.wav"
+    },
+    {
+      "start": 19.0559,
+      "end": 23.3669,
+      "speaker_id": "S0764",
+      "text": "标杆房企必然调整市场战略",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0125.wav"
+    },
+    {
+      "start": 23.6669,
+      "end": 27.1669,
+      "speaker_id": "S0764",
+      "text": "因此土地储备至关重要",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0126.wav"
+    },
+    {
+      "start": 27.4669,
+      "end": 31.9199,
+      "speaker_id": "S0764",
+      "text": "中原地产首席分析师张大伟说",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0127.wav"
+    },
+    {
+      "start": 32.2199,
+      "end": 35.7909,
+      "speaker_id": "S0764",
+      "text": "一线城市土地供应量减少",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0128.wav"
+    },
+    {
+      "start": 36.0909,
+      "end": 39.6859,
+      "speaker_id": "S0764",
+      "text": "也助推了土地市场的火爆",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0129.wav"
+    },
+    {
+      "start": 39.9859,
+      "end": 45.2339,
+      "speaker_id": "S0764",
+      "text": "北京仅新增住宅土地供应十宗",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0130.wav"
+    },
+    {
+      "start": 45.5339,
+      "end": 50.5339,
+      "speaker_id": "S0764",
+      "text": "开发边界将作为城市发展的刚性约定",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0131.wav"
+    },
+    {
+      "start": 50.8339,
+      "end": 54.4919,
+      "speaker_id": "S0764",
+      "text": "不得超越界限盲目扩张",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0132.wav"
+    },
+    {
+      "start": 54.7919,
+      "end": 58.3489,
+      "speaker_id": "S0764",
+      "text": "目前挂牌的只有几宗土地",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0133.wav"
+    },
+    {
+      "start": 58.6489,
+      "end": 62.8359,
+      "speaker_id": "S0764",
+      "text": "再加上近期一二线楼市升温",
+      "source_clip": "data\\raw\\aishell\\BAC009S0764W0134.wav"
+    }
+  ],
+  "reference_text": "甚至出现交易几乎停滞的情况一二线城市虽然也处于调整中但因为聚集了过多公共资源为了规避三四线城市明显过剩的市场风险标杆房企必然调整市场战略因此土地储备至关重要中原地产首席分析师张大伟说一线城市土地供应量减少也助推了土地市场的火爆北京仅新增住宅土地供应十宗开发边界将作为城市发展的刚性约定不得超越界限盲目扩张目前挂牌的只有几宗土地再加上近期一二线楼市升温",
+  "cer_applicable": true,
+  "speaker_reference_note": "clip-level construction bounds include source leading/trailing silence; not frame-level human speech annotation"
+}
